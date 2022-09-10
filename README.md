@@ -4,7 +4,7 @@
 
 Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pela Etec Machado de Assis em Caçapava. Atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas, pela Fatec Prof. Jessen Vidal, em São José dos Campos.
 
-Durante a trajetória do meu curso técnico em Desenvolvimento de Sistemas, consegui aprimorar minhas Hard Skills. Tive contato com as linguagens de programação PHP, Java e Python. Aprendi também SQL, HTML, CSS, Bootstrap e Arduino. Ao final do curso, precisei desenvolver, em equipe, um Trabalho de Conclusão de Curso (TCC). O projeto consistia em um sistema de gerenciamento para a administração de barbearias, no qual era possível manusear informações pessoais dos clientes, agendar um horário para atendimento, efetuar compra e pagamento de serviços e produtos. Como uma opção especial, adicionamos o gerenciamento de fidelidade do cliente.
+ - Durante a trajetória do meu curso técnico em Desenvolvimento de Sistemas, consegui aprimorar minhas Hard Skills. Tive contato com as linguagens de programação PHP, Java e Python. Aprendi também SQL, HTML, CSS, Bootstrap e Arduino. Ao final do curso, precisei desenvolver, em equipe, um Trabalho de Conclusão de Curso (TCC). O projeto consistia em um sistema de gerenciamento para a administração de barbearias, no qual era possível manusear informações pessoais dos clientes, agendar um horário para atendimento, efetuar compra e pagamento de serviços e produtos. Como uma opção especial, adicionamos o gerenciamento de fidelidade do cliente.
 
 ## Projetos
 
