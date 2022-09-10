@@ -28,6 +28,6 @@ Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em q
 ## Meus Principais Conhecimentos
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
 
-## Contatos
+## Contatos <img src="./docs/github-icon.png"  width="19" height="19"> <img src="./docs/linkedin-icon.png"  width="19" height="19">
 * Este é o meu perfil no [GitHub](https://github.com/ThomasPalma1). Nesta plataforma é onde eu faço upload de projetos acadêmicos e pessoais!
 * Este é o meu perfil no [LinkedIn](https://www.linkedin.com/in/thomas-palma-0764b81b3/)! Nesta plataforma é onde eu compartilho informações pertinentes à minha carreira profissional na área de tecnologia.
