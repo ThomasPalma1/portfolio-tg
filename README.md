@@ -1,21 +1,23 @@
-# Coloque seu nome aqui
+# Thomas dos Santos Palma
 
 ## Introdução
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Recomenda-se a inclusão de uma foto.
+Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pela Etec Machado de Assis em Caçapava. Atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas, pela Fatec Prof. Jessen Vidal, em São José dos Campos.
 
-## Meus Projetos
+## Projetos
+- E-commerce criado e estruturado com HTML, CSS, Javascript, PHP e PostgreSQL, com ênfase em vendas e posterior disponibilização de materiais didáticos para estudantes do Ensino Superior de Análise de Sistemas. [FatecPI-01](https://github.com/ThomasPalma1/FatecPI-01).
 
-### Em 2019-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+- Aplicação Web que foi elaborada com HTML, CSS, Javascript, NodeJS e PostgreSQL, tendo foco em dashboards para análise de dados dos projetos e acompanhamento de performance dos desenvolvedores responsáveis. [FatecAPI-02](https://github.com/roogercamargo/FatecAPI-02)
 
-[GIT](https://www.google.com)
+- Aplicação Web desenvolvida com HTML, CSS, Javascript, Java e PostgreSQL, com o objetivo de realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes. [FatecAPI-03](https://github.com/ThomasPalma1/FatecAPI-03)
 
-#### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+- Aplicação Móvel elaborada com JavaScript, NodeJS, React Native, Expo e PostgreSQL, dando destaque na consolidação de dados e informações do cultivo da soja. Viabilizando ao agricultor uma percepção absoluta da produtividade a cada cultivo e produtividade total, além de possibilitar a comparação da produtividade e áreas plantadas nos municípios. [FatecAPI-04](https://github.com/ThomasPalma1/FatecAPI-04)
 
-#### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes.
+- Em desenvolvimento. [FatecAPI-05](https://github.com/ThomasPalma1/FatecAPI-05)
+
+Desenvolvi, em equipe,os seguintes projetos:
+
+
 
 #### Hard Skills
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível alcançado. Exemplo: CSS - Sei fazer com autonomia
@@ -23,21 +25,9 @@ Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o n�
 #### Soft Skills
 Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. 
 
-### Em 2020-1
-Mesmo formato
-
-### Em 2020-2
-Mesmo formato
-
-### Em 2021-1
-Mesmo formato
-
-### Em 2021-2
-Mesmo formato
-
 ## Meus Principais Conhecimentos
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
 
 ## Contatos
-* [GIT](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
+* Este é o meu perfil no [GitHub](https://github.com/ThomasPalma1). Nesta plataforma é onde eu faço upload de projetos acadêmicos e pessoais!
+* Este é o meu perfil no [LinkedIn](https://www.linkedin.com/in/thomas-palma-0764b81b3/)! Nesta plataforma é onde eu compartilho informações pertinentes à minha carreira profissional na área de tecnologia.
