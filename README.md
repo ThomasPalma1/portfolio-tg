@@ -4,7 +4,12 @@
 
 Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pela Etec Machado de Assis em Caçapava. Atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas, pela Fatec Prof. Jessen Vidal, em São José dos Campos.
 
+Durante a trajetória do meu curso técnico em Desenvolvimento de Sistemas, consegui aprimorar minhas Hard Skills. Tive contato com as linguagens de programação PHP, Java e Python. Aprendi também SQL, HTML, CSS, Bootstrap e Arduino. Ao final do curso, precisei desenvolver, em equipe, um Trabalho de Conclusão de Curso (TCC). O projeto consistia em um sistema de gerenciamento para a administração de barbearias, no qual era possível manusear informações pessoais dos clientes, agendar um horário para atendimento, efetuar compra e pagamento de serviços e produtos. Como uma opção especial, adicionamos o gerenciamento de fidelidade do cliente.
+
 ## Projetos
+
+#### Desenvolvi, em equipe, os seguintes projetos:
+
 - E-commerce criado e estruturado com HTML, CSS, Javascript, PHP e PostgreSQL, com ênfase em vendas e posterior disponibilização de materiais didáticos para estudantes do Ensino Superior de Análise de Sistemas. [FatecPI-01](https://github.com/ThomasPalma1/FatecPI-01).
 
 - Aplicação Web que foi elaborada com HTML, CSS, Javascript, NodeJS e PostgreSQL, tendo foco em dashboards para análise de dados dos projetos e acompanhamento de performance dos desenvolvedores responsáveis. [FatecAPI-02](https://github.com/roogercamargo/FatecAPI-02)
@@ -14,10 +19,6 @@ Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pel
 - Aplicação Móvel elaborada com JavaScript, NodeJS, React Native, Expo e PostgreSQL, dando destaque na consolidação de dados e informações do cultivo da soja. Viabilizando ao agricultor uma percepção absoluta da produtividade a cada cultivo e produtividade total, além de possibilitar a comparação da produtividade e áreas plantadas nos municípios. [FatecAPI-04](https://github.com/ThomasPalma1/FatecAPI-04)
 
 - Em desenvolvimento. [FatecAPI-05](https://github.com/ThomasPalma1/FatecAPI-05)
-
-Desenvolvi, em equipe,os seguintes projetos:
-
-
 
 #### Hard Skills
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível alcançado. Exemplo: CSS - Sei fazer com autonomia
