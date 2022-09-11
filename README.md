@@ -27,104 +27,112 @@ Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pel
  - Durante a trajetória do meu curso técnico em Desenvolvimento de Sistemas, consegui aprimorar minhas Hard Skills. Tive contato com as linguagens de programação PHP, Java e Python. Aprendi também SQL, HTML, CSS, Bootstrap e Arduino. Ao final do curso, precisei desenvolver, em equipe, um Trabalho de Conclusão de Curso (TCC). O projeto consistia em um sistema de gerenciamento para a administração de barbearias, no qual era possível manusear informações pessoais dos clientes, agendar um horário para atendimento, efetuar compra e pagamento de serviços e produtos. Como uma opção especial, adicionamos o gerenciamento de fidelidade do cliente.
 
 ## **Meus Principais Conhecimentos**
+Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologias: 
 <table>
-  <tr>
-    <th>Tecnologias</th>
-    <th>Básico</th>
-    <th>Intermediário</th>
-    <th>Avançado</th>
-  </tr>
-  <tr>
-    <td>C</td>
-    <td align="center">X</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>CI/CD</td>
-    <td></td>
-    <td align="center">X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>CSS</td>
-    <td></td>
-    <td align="center">X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Docker</td>
-    <td></td>
-    <td align="center">X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <td></td>
-    <td align="center">X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td></td>
-    <td align="center">X</td>
-    <td></td>
-  </tr>
     <tr>
-    <td>JavaScript</td>
-    <td></td>
-    <td align="center">X</td>
-    <td></td>
-  </tr>
+        <th>Tecnologias</th>
+        <th>Básico</th>
+        <th>Intermediário</th>
+        <th>Avançado</th>
+    </tr>
     <tr>
-    <td>Linux</td>
-    <td></td>
-    <td></td>
-    <td align="center">X</td>
-  </tr>
+        <td>C</td>
+        <td align="center">X</td>
+        <td></td>
+        <td></td>
+    </tr>
     <tr>
-    <td>MongoDB</td>
-    <td align="center">X</td>
-    <td></td>
-    <td></td>
-  </tr>
+        <td>CI/CD</td>
+        <td></td>
+        <td align="center">X</td>
+        <td></td>
+    </tr>
     <tr>
-    <td>Oracle</td>
-    <td align="center">X</td>
-    <td></td>
-    <td></td>
-  </tr>
+        <td>CSS</td>
+        <td></td>
+        <td align="center">X</td>
+        <td></td>
+    </tr>
     <tr>
-    <td>PHP</td>
-    <td align="center">X</td>
-    <td></td>
-    <td></td>
-  </tr>
-     <tr>
-    <td>PostgreSQL</td>
-    <td></td>
-    <td align="center">X</td>
-    <td></td>
-  </tr>
-     <tr>
-    <td>Python</td>
-    <td></td>
-    <td align="center">X</td>
-    <td></td>
-  </tr>
-     <tr>
-    <td>React</td>
-    <td align="center">X</td>
-    <td></td>
-    <td></td>
-  </tr>
-     <tr>
-    <td>React Native</td>
-    <td align="center">X</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>  
+        <td>Docker</td>
+        <td></td>
+        <td align="center">X</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Git</td>
+        <td></td>
+        <td align="center">X</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>HTML</td>
+        <td></td>
+        <td align="center">X</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Java</td>
+        <td></td>
+        <td align="center">X</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>JavaScript</td>
+        <td></td>
+        <td align="center">X</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Linux</td>
+        <td></td>
+        <td></td>
+        <td align="center">X</td>
+    </tr>
+    <tr>
+        <td>MongoDB</td>
+        <td align="center">X</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Oracle</td>
+        <td align="center">X</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>PHP</td>
+        <td align="center">X</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>PostgreSQL</td>
+        <td></td>
+        <td align="center">X</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Python</td>
+        <td></td>
+        <td align="center">X</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>React</td>
+        <td align="center">X</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>React Native</td>
+        <td align="center">X</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+  
 
 ## **Contatos** <img src="./docs/github-icon.png"  width="19" height="19"> <img src="./docs/linkedin-icon.png"  width="19" height="19">
 * Este é o meu perfil no [GitHub](https://github.com/ThomasPalma1). Nesta plataforma é onde eu faço upload de projetos acadêmicos e pessoais!
