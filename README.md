@@ -8,10 +8,10 @@ Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pel
 
 > **Análise e Desenvolvimento de Sistemas | FATEC Prof. Jessen Vidal – São José dos Campos. Previsão para conclusão: julho de 2023.**
 
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+- Durante a minha trajetória no curso de Análise e Desenvolvimento de Sistemas, aprendi que é necessário ser persistente e auto-didata. Desde o primeiro semestre, desenvolvemos projetos que incluem todas as disciplinas ensinadas. A partir desses projetos utilizamos metodologias ágeis para o seu desenvolvimento. A descrição detalhada de cada um desses projetos encontra-se abaixo.
 
 ## **Projetos Integradores**
-A seguir é possivel visualizar uma pequena descrição de cada projeto, assim como um link dedicado para cada **README**:
+A seguir há uma breve descrição de cada projeto desenvolvido, nos quais eu era um integrante da equipe. Além disso, há um link dedicado para cada **projeto**:
 
  - <h4><b>Desenvolvi, em equipe, os seguintes projetos:</h4></b>
 
