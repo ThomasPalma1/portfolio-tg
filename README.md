@@ -1,5 +1,7 @@
 # Thomas dos Santos Palma
 
+<img src="./docs/profile-picture.jpg" align="right" width="150" height="150">
+
 ## **Introdução**
 
 Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pela Etec Machado de Assis em Caçapava. Atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas, pela Fatec Prof. Jessen Vidal, em São José dos Campos.
