@@ -9,7 +9,7 @@
     </tr>
     <tr>
         <td>CSS</td>
-        <td align="justify">Estilização</td>
+        <td align="justify">Estilização dos componentes da interface</td>
         <td align="justify">
             A linguagem de estilo CSS, é focada na parte visual de uma aplicação web. Possuindo a capacidade de melhorar toda a parte estética de um layout, adicionando ou alterando determinadas propriedades, como por exemplo: cores,
             características de fontes, posicionamento, linhas, alturas, larguras, imagens de fundo etc.
@@ -18,7 +18,6 @@
     <tr>
         <td>HTML</td>
         <td align="left">Utilizado para criar e estruturar páginas web</td>
-        <td></td>
         <td align="justify">
             Hypertext Markup Language, o HTML, é a linguagem de marcação padrão para a criação de páginas na web. Utilizando as tags do HTML podemos estruturar, desmembrar, organizar e exibir conteúdo conforme programado.
         </td>
@@ -35,10 +34,11 @@
     </tr>
     <tr>
         <td>PHP</td>
-        <td align="justify">Usado para o desenvolvimento do back-end da aplicação</td>
+        <td align="left">Usado para o desenvolvimento back-end da aplicação</td>
         <td align="justify">PHP é uma linguagem interpretada, que é especificamente apropriada para desenvolvimento web do lado do servidor. É uma linguagem de código aberto e é conhecida mundialmente.</td>
     </tr>
 </table>
+
 
 
 ## **Contribuições Pessoais**
