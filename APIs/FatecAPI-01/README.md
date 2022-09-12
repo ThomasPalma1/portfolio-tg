@@ -1,4 +1,5 @@
 ## **Sobre o Projeto**
+
 ## **Tecnologias Utilizadas**
 
 <table>
@@ -21,7 +22,6 @@
         <td align="justify">
             Hypertext Markup Language, o HTML, é a linguagem de marcação padrão para a criação de páginas na web. Utilizando as tags do HTML podemos estruturar, desmembrar, organizar e exibir conteúdo conforme programado.
         </td>
-        <td></td>
     </tr>
     <tr>
         <td>MySQL</td>
@@ -30,7 +30,6 @@
             O MySQL é um sistema gerenciador de bancos de dados relacional. O MySQL possui uma interface gráfica que possibilita criar, navegar, editar e eliminar bancos de dados, tabelas, views, colunas e índices. Dessa forma, podemos
             efetuar qualquer alteração de modo rápido e simples. É um software útil e seguro.
         </td>
-        <td></td>
     </tr>
     <tr>
         <td>PHP</td>
@@ -39,8 +38,8 @@
     </tr>
 </table>
 
-
-
 ## **Contribuições Pessoais**
+
 ## **Hard Skills**
+
 ## **Soft Skills**
