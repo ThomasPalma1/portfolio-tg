@@ -1,6 +1,6 @@
 ## Mr. Academy
 
-<img src="/docs/owl.png" align="right" width="150" height="150">
+<img src="/docs/owl-transparent-background.png" align="right" width="150" height="150">
 
 ## **Sobre o Projeto**
 
