@@ -1,5 +1,7 @@
 ## **Sobre o Projeto**
 
+O projeto tratava-se de um website para vendas e posterior disponibilização de materiais didáticos para curso de Ensino Superior de Análise de Sistemas, atuando enquanto uma plataforma e-commerce.
+
 ## **Tecnologias Utilizadas**
 
 <table>
@@ -35,11 +37,11 @@
 
 Ao longo do desenvolvimento deste projeto, tive a oportunidade de aprender e operar as seguintes tecnologias:
 
-1. `CSS` - Sei fazer com auxílio de consultas.
-2. `HTML` - Sei fazer com auxílio de consultas.
-3. `JavaScript` - Sei fazer com auxílio de consultas.
-4. `MySQL` - Sei fazer com auxílio de consultas.
-5. `PHP` - Sei fazer com auxílio de consultas.
+   1. `CSS` - Sei fazer com auxílio de consultas;
+   2. `HTML` - Sei fazer com auxílio de consultas;
+   3. `JavaScript` - Sei fazer com auxílio de consultas;
+   4. `MySQL` - Sei fazer com auxílio de consultas;
+   5. `PHP` - Sei fazer com auxílio de consultas.
 
 ## **Soft Skills**
 
