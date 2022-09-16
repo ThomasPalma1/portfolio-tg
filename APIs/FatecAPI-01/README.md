@@ -35,12 +35,11 @@
 
 Ao longo do desenvolvimento deste projeto, tive a oportunidade de aprender e operar as seguintes tecnologias:
 
-1.  `CSS` - <font color="orange"> Sei fazer com auxílio de consultas. </font>
-
-2.  `HTML` - <font color="orange"> Sei fazer com auxílio de consultas. </font>
-3.  `JavaScript` - <font color="orange"> Sei fazer com auxílio de consultas. </font>
-4.  `MySQL` - <font color="orange"> Sei fazer com auxílio de consultas. </font>
-5.  `PHP` - <font color="orange"> Sei fazer com auxílio de consultas. </font>
+1. `CSS` - Sei fazer com auxílio de consultas.
+2. `HTML` - Sei fazer com auxílio de consultas.
+3. `JavaScript` - Sei fazer com auxílio de consultas.
+4. `MySQL` - Sei fazer com auxílio de consultas.
+5. `PHP` - Sei fazer com auxílio de consultas.
 
 ## **Soft Skills**
 
