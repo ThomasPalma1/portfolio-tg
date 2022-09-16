@@ -4,7 +4,7 @@
 
 ## **Introdução**
 
-Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pela Etec Machado de Assis em Caçapava. Atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas, pela Fatec Prof. Jessen Vidal, em São José dos Campos.
+Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pela Etec Machado de Assis em Caçapava. Atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas, pela Fatec Prof. Jessen Vidal, em São José dos Campos. No meu tempo livre gosto de jogar jogos eletrônicos, ler mangás e meu estilo de música preferida é J-Rock e J-Pop.
 
 ## **Formação Acadêmica**
 
@@ -17,16 +17,16 @@ A seguir há uma breve descrição de cada projeto desenvolvido, nos quais eu er
 
  - <h4><b>Desenvolvi, em equipe, os seguintes projetos:</h4></b>
 
-   1. E-commerce criado e estruturado com HTML, CSS, Javascript, PHP e PostgreSQL, com ênfase em vendas e posterior disponibilização de materiais didáticos para estudantes do Ensino Superior de Análise de Sistemas. [Projeto Integrador do primeiro semestre](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-01).
+   1. E-commerce criado com ênfase em vendas e posterior disponibilização de materiais didáticos para estudantes do Ensino Superior de Análise de Sistemas. [Projeto Integrador do primeiro semestre](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-01).
 
 
-   2. Aplicação Web que foi elaborada com HTML, CSS, Javascript, NodeJS e PostgreSQL, tendo foco em dashboards para análise de dados dos projetos e acompanhamento de performance dos desenvolvedores responsáveis. [Projeto Integrador do segundo semestre](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-02)
+   2. Website com foco em dashboards para análise de dados dos projetos e acompanhamento de performance dos desenvolvedores responsáveis. [Projeto Integrador do segundo semestre](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-02)
 
 
-   3. Aplicação Web desenvolvida com HTML, CSS, Javascript, Java e PostgreSQL, com o objetivo de realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes.[Projeto Integrador do terceiro semestre](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-03)
+   3. Aplicação Web desenvolvida com o objetivo de realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes.[Projeto Integrador do terceiro semestre](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-03)
 
 
-   4. Aplicação Móvel elaborada com JavaScript, NodeJS, React Native, Expo e PostgreSQL, dando destaque na consolidação de dados e informações do cultivo da soja. Viabilizando ao agricultor uma percepção absoluta da produtividade a cada cultivo e produtividade total, além de possibilitar a comparação da produtividade e áreas plantadas nos municípios. [Projeto Integrador do quarto semestre](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-04)
+   4. Aplicação Móvel para efetuar a consolidação de dados e informações do cultivo da soja. Viabilizando ao agricultor uma percepção absoluta da produtividade a cada cultivo e produtividade total, além de possibilitar a comparação da produtividade e áreas plantadas nos municípios. [Projeto Integrador do quarto semestre](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-04)
 
 
    5. Em desenvolvimento. [Projeto Integrador do quinto semestre](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-05)
