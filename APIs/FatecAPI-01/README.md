@@ -10,7 +10,7 @@
     </tr>
     <tr>
         <td>CSS</td>
-        <td align="justify">Estilização dos componentes da interface</td>
+        <td align="left">Estilização dos componentes da interface</td>
         <td align="justify">
             A linguagem de estilo CSS, é focada na parte visual de uma aplicação web. Possuindo a capacidade de melhorar toda a parte estética de um layout, adicionando ou alterando determinadas propriedades, como por exemplo: cores,
             características de fontes, posicionamento, linhas, alturas, larguras, imagens de fundo etc.
