@@ -1,10 +1,10 @@
-## Mr. Academy
+# Mr. Academy
 
 <img src="/docs/owl.png" align="right" width="150" height="150">
 
 ## **Sobre o Projeto**
 
-O projeto tratava-se de um website para vendas e posterior disponibilização de materiais didáticos para curso de Ensino Superior de Análise de Sistemas, atuando enquanto uma plataforma e-commerce.
+O projeto tratava-se de um website para vendas e posterior disponibilização de materiais didáticos para curso de Ensino Superior de Análise de Sistemas, atuando enquanto uma plataforma e-commerce. O material a ser disponibilizado é referente às matérias de Matemática Discreta, Inglês, Português, Algoritmos de Programação, Laboratório de Hardware e Arquitetura e Organização de Computadores.
 
 ## **Tecnologias Utilizadas**
 
