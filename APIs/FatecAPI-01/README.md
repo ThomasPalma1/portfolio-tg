@@ -1,4 +1,10 @@
+# Mr. Academy
+
+<img src="/docs/owl.png" align="right" width="150" height="150">
+
 ## **Sobre o Projeto**
+
+O projeto tratava-se de um website para vendas e posterior disponibilização de materiais didáticos para curso de Ensino Superior de Análise de Sistemas, atuando enquanto uma plataforma e-commerce. O material a ser disponibilizado é referente às matérias de Matemática Discreta, Inglês, Português, Algoritmos de Programação, Laboratório de Hardware e Arquitetura e Organização de Computadores.
 
 ## **Tecnologias Utilizadas**
 
@@ -6,40 +12,40 @@
     <tr>
         <th>Tecnologias Utilizadas</th>
         <th>FInalidade</th>
-        <th>Descrição</th>
     </tr>
     <tr>
         <td>CSS</td>
-        <td align="left">Estilização dos componentes da interface</td>
-        <td align="justify">
-            A linguagem de estilo CSS, é focada na parte visual de uma aplicação web. Possuindo a capacidade de melhorar toda a parte estética de um layout, adicionando ou alterando determinadas propriedades, como por exemplo: cores,
-            características de fontes, posicionamento, linhas, alturas, larguras, imagens de fundo etc.
-        </td>
+        <td align="justify">Estilização dos componentes da interface.</td>
     </tr>
     <tr>
         <td>HTML</td>
-        <td align="left">Utilizado para criar e estruturar páginas web</td>
-        <td align="justify">
-            Hypertext Markup Language, o HTML, é a linguagem de marcação padrão para a criação de páginas na web. Utilizando as tags do HTML podemos estruturar, desmembrar, organizar e exibir conteúdo conforme programado.
-        </td>
+        <td align="left">Utilizado para criar e estruturar páginas web.</td>
+    </tr>
+    <tr>
+        <td>JavaScript</td>
+        <td align="left">Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.</td>
     </tr>
     <tr>
         <td>MySQL</td>
-        <td align="left">Gerenciar e manipular dados do banco de dados</td>
-        <td align="justify">
-            O MySQL é um sistema gerenciador de bancos de dados relacional. O MySQL possui uma interface gráfica que possibilita criar, navegar, editar e eliminar bancos de dados, tabelas, views, colunas e índices. Dessa forma, podemos
-            efetuar qualquer alteração de modo rápido e simples. É um software útil e seguro.
-        </td>
+        <td align="left">Gerenciar e manipular dados do banco de dados.</td>
     </tr>
     <tr>
         <td>PHP</td>
-        <td align="left">Usado para o desenvolvimento back-end da aplicação</td>
-        <td align="justify">PHP é uma linguagem interpretada, que é especificamente apropriada para desenvolvimento web do lado do servidor. É uma linguagem de código aberto e é conhecida mundialmente.</td>
-    </tr>
+        <td align="left">Usado para o desenvolvimento back-end da aplicação.</td>
+
 </table>
 
 ## **Contribuições Pessoais**
 
 ## **Hard Skills**
 
+Ao longo do desenvolvimento deste projeto, tive a oportunidade de aprender e operar as seguintes tecnologias:
+
+   1. `CSS` - Sei fazer com auxílio de consultas;
+   2. `HTML` - Sei fazer com auxílio de consultas;
+   3. `JavaScript` - Sei fazer com auxílio de consultas;
+   4. `MySQL` - Sei fazer com auxílio de consultas;
+   5. `PHP` - Sei fazer com auxílio de consultas.
+
 ## **Soft Skills**
+
