@@ -4,7 +4,7 @@
 
 ## **Sobre o Projeto**
 
-Tratando-se do primeiro semestre, não realizamos o projeto com uma empresa externa, mas sim com um cliente interno, que foi um dos nossos professores. O projeto proposto foi um e-commerce para vendas de materias didáticos, que após a execução da compra, seria efetuado a disponibilização dos materiais didáticos adquiridos, com enfase no curso de Ensino Superior de Análise de Sistemas. O material disponibilizado, mediante ao pagamento, era referente às matérias de Matemática Discreta, Inglês, Português, Algoritmos de Programação, Laboratório de Hardware e Arquitetura e Organização de Computadores.
+<p align="justify">Tratando-se do primeiro semestre, não realizamos o projeto com uma empresa externa, mas sim com um cliente interno, que foi um dos nossos professores. O projeto proposto foi um e-commerce para vendas de materias didáticos, que após a execução da compra, seria efetuado a disponibilização dos materiais didáticos adquiridos, com enfase no curso de Ensino Superior de Análise de Sistemas. O material disponibilizado, mediante ao pagamento, era referente às matérias de Matemática Discreta, Inglês, Português, Algoritmos de Programação, Laboratório de Hardware e Arquitetura e Organização de Computadores.</p>
 
 ## **Tecnologias Utilizadas**
 
