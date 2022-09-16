@@ -1,6 +1,6 @@
 # Thomas dos Santos Palma
 
-<img src="./docs/profile-picture.jpg" align="right" width="150" height="150">
+<img src="./docs/profile-picture.png" align="right" width="150" height="150">
 
 ## **Introdução**
 
