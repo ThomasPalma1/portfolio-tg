@@ -1,10 +1,11 @@
-# Thomas dos Santos Palma
-
-<img src="./docs/profile-picture.png" align="right" width="150" height="150">
+<h1 align="center"><b>Thomas dos Santos Palma</h1></b>
+<center><img src="./docs/profile-picture.png" width="150" height="150"></center>
 
 ## **Introdução**
 
 <p align="justify">Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pela Etec Machado de Assis, em Caçapava. Atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas, pela Fatec Prof. Jessen Vidal, em São José dos Campos. Tenho grande interesse na área de DevOps, e já estou me familiarizando com tecnologias como Ansible, CI/CD, Docker, Linux, Python, Shell Script e Zabbix. No meu tempo livre gosto de jogar <b>osu!</b> e <b>Pokémon GO</b> e ler mangás. Meu estilo de música preferido é J-Rock e J-Pop.</p>
+
+
 
 ## **Formação Acadêmica**
 
@@ -38,7 +39,7 @@ A seguir há uma breve descrição de cada projeto desenvolvido, nos quais eu er
 
  ## **Carreira Profissional**
  <p align="justify">Sou um profissional com dois anos de experiência na área administrativa industrial. Atualmente, estou adquirindo conhecimento trabalhando no departamento de Desenvolvimento, como estagiário, em uma empresa localizada no parque tecnológico. A empresa em questão viabiliza soluções em mobilidade e gestão urbana.</p>
- 
+
 ## **Meus Principais Conhecimentos**
 Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologias: 
 <table>
