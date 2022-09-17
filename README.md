@@ -1,5 +1,8 @@
 <h1 align="center"><b>Thomas dos Santos Palma</h1></b>
-<center><img src="./docs/profile-picture.png" width="150" height="150"></center>
+
+<p align="center"> 
+   <img src="./docs/profile-picture.png" width="150" height="150">
+</p>
 
 ## **Introdução**
 
