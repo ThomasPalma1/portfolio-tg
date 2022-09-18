@@ -1,6 +1,8 @@
-# Mr. Academy
+<h1 align="center"><b>Mr. Academy</h1></b>
 
-<img src="/docs/owl.png" align="right" width="150" height="150">
+<p align="center"> 
+   <img src="/docs/owl.png" width="150" height="150">
+</p>
 
 ## **Sobre o Projeto**
 
