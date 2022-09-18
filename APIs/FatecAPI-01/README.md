@@ -16,30 +16,30 @@
         <th>FInalidade</th>
     </tr>
     <tr>
-        <td>CSS</td>
+        <td align="center">CSS</td>
         <td align="justify">Estilização dos componentes da interface.</td>
     </tr>
     <tr>
-        <td>HTML</td>
+        <td align="center">HTML</td>
         <td align="left">Utilizado para criar e estruturar páginas web.</td>
     </tr>
     <tr>
-        <td>JavaScript</td>
+        <td align="center">JavaScript</td>
         <td align="left">Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.</td>
     </tr>
     <tr>
-        <td>MySQL</td>
+        <td align="center">MySQL</td>
         <td align="left">Gerenciar e manipular dados do banco de dados.</td>
     </tr>
     <tr>
-        <td>PHP</td>
+        <td align="center">PHP</td>
         <td align="left">Usado para o desenvolvimento back-end da aplicação.</td>
 
 </table>
 
 ## **Contribuições Pessoais**
 
-Neste projeto atuei como **Scrum Master**. Ajudei a eliminar os impasses na equipe e garanti que todos os membros seguissem o desenvolvimento ágil ao decorrer das Sprints, entregando resultados dentro do prazo estabelecido. Além disso, contribuí para a estruturação do **back-end**. Do lado do servidor, tive a competência de desenvolver a arquitetura do sistema, download e exclusão de arquivos, cadastro de conteúdo e a autenticação de usuários.
+<p align="justify">Neste projeto atuei como <b>Scrum Master</b>. Ajudei a eliminar os impasses na equipe e garanti que todos os membros seguissem o desenvolvimento ágil ao decorrer das Sprints, entregando resultados dentro do prazo estabelecido. Além disso, contribuí para a estruturação do <b>back-end</b>. Do lado do servidor, tive a competência de desenvolver a arquitetura do sistema, download e exclusão de arquivos, cadastro de conteúdo e a autenticação de usuários.</p>
 
 ## **Hard Skills**
 
