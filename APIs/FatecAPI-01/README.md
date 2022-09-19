@@ -7,7 +7,7 @@
 
 ## **Sobre o Projeto**
 
-<p align="justify">Tratando-se do primeiro semestre, não realizamos o projeto com uma empresa externa, mas sim com um cliente interno, que foi um dos nossos professores. O projeto proposto foi um e-commerce para vendas de materiais didáticos, que após a execução da compra, seria efetuado a disponibilização desses materiais adquiridos. O material disponibilizado, mediante ao pagamento possuía ênfase no curso de Ensino Superior de Análise de Sistemas e era referente às disciplinas de Matemática Discreta, Inglês, Português, Algoritmos de Programação, Laboratório de Hardware e Arquitetura e Organização de Computadores.</p>
+<p align="justify">Tratando-se do primeiro semestre, não realizamos o projeto com uma empresa externa, mas sim com um cliente interno, que foi um dos nossos professores. O projeto proposto foi um e-commerce para vendas de materiais didáticos, que após a execução da compra, seria efetuada a disponibilização desses materiais adquiridos. O material disponibilizado, mediante ao pagamento possuía ênfase no curso de Ensino Superior de Análise de Sistemas e era referente às disciplinas de Matemática Discreta, Inglês, Português, Algoritmos de Programação, Laboratório de Hardware e Arquitetura e Organização de Computadores.</p>
 
 ## **Tecnologias Utilizadas**
 
@@ -44,7 +44,7 @@
 
 ## **Hard Skills**
 
-Ao longo do desenvolvimento deste projeto, tive a oportunidade de aprender e operar as seguintes tecnologias:
+O Mr. Academy foi desenvolvido durante o **segundo semestre** de **2020**, no meu primeiro semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
 
   1.  **CSS** &#8594; Sei fazer com autonomia;
   3.  **HTML** &#8594; Sei fazer com autonomia;
@@ -54,7 +54,7 @@ Ao longo do desenvolvimento deste projeto, tive a oportunidade de aprender e ope
 
 ## **Soft Skills**
 
-* **Gerenciamento de tempo |** Durante o projeto, exercendo a função de  **Scrum Master** pela primeira vez, precisei administrar de maneira mais eficiente o tempo. Realizava também, o monitoramento do **Burndown** para verificar se a entrega estav sob controle, tornando assim possível efetuar as entregas dentro do prazo estipulado;
+* **Gerenciamento de tempo |** Durante o projeto, exercendo a função de  **Scrum Master** pela primeira vez, precisei administrar  o tempo de maneira mais eficiente. Eu realizava, também, o monitoramento do **Burndown** para verificar se a entrega estava sob controle, tornando assim possível efetuar as entregas dentro do prazo estipulado;
 
 <br>
 
