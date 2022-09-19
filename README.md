@@ -56,78 +56,81 @@ Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologi
     </tr>
     <tr>
         <td align="center">C</td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td align="center">CSS</td>
         <td></td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
     </tr>
     <tr>
         <td align="center">Docker</td>
         <td></td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
     </tr>
     <tr>
         <td align="center">Git</td>
         <td></td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
     </tr>
     <tr>
         <td align="center">HTML</td>
         <td></td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
     </tr>
     <tr>
         <td align="center">Java</td>
         <td></td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
     </tr>
     <tr>
         <td align="center">JavaScript</td>
         <td></td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
     </tr>
     <tr>
         <td align="center">Linux</td>
         <td></td>
         <td></td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
     </tr>
     <tr>
         <td align="center">MongoDB</td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td align="center">PostgreSQL</td>
         <td></td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
     </tr>
     <tr>
         <td align="center">Python</td>
         <td></td>
-        <td align="center">X</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
     </tr>
     <tr>
-        <td align="center">React | React Native</td>
-        <td align="center">X</td>
+        <td align="center">React & React Native</td>
+        <td align="center">:heavy_check_mark:</td>
         <td></td>
         <td></td>
     </tr>
 </table>
   
+## **Soft Skills que eu mais domino**
+
+
 
 ## **Contatos** <img src="./docs/github-icon.png"  width="19" height="19"> <img src="./docs/linkedin-icon.png"  width="19" height="19">
 * Este é o meu perfil no [GitHub](https://github.com/ThomasPalma1)! Nesta plataforma é onde faço upload de projetos acadêmicos e pessoais!
