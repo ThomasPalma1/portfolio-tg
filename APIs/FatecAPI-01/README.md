@@ -1,4 +1,5 @@
 <h1 align="center"><b>Mr. Academy</h1></b>
+<h1 align="center"><b>Mr. Academy</h1></b>
 
 <p align="center"> 
    <img src="/docs/owl.png" width="150" height="150">
@@ -47,14 +48,13 @@ Ao longo do desenvolvimento deste projeto, tive a oportunidade de aprender e ope
 
   1.  **CSS** &#8594; Sei fazer com autonomia;
   3.  **HTML** &#8594; Sei fazer com autonomia;
-  3.  **JavaScript** &#8594; Sei fazer com auxílio de consultas;
-  4.  **MySQL** &#8594; Sei fazer com auxílio de consultas;
-  5.  **PHP** &#8594; Sei fazer com auxílio de consultas.
+  3.  **JavaScript** &#8594; Sei fazer com auxílio;
+  4.  **MySQL** &#8594; Sei fazer com auxílio;
+  5.  **PHP** &#8594; Sei fazer com auxílio.
 
 ## **Soft Skills**
 
 * **Responsabilidade |** Ter o compromisso de assumir uma atividade e realiza-lá dentro do prazo acordado;
 * **Gerenciamento de tempo |** Administrar de maneira mais eficiente o tempo para que fosse possível efetuar as entregas dentro do prazo estipulado;
 * **Organização e planejamento |** Compreendendo e aplicando a metodologia **Scrum** na prática, com o objetivo de administrar atividades e entregas;
-* **Proatividade |** Tive a aptidão para iniciar o desenvolvimento de atividades de maior prioridade e pesquisar, adquirir conhecimento e desenvolvê-las de forma a cumprir com o prazo. 
-
+* **Proatividade |** Tive a aptidão para iniciar o desenvolvimento de atividades de maior prioridade e pesquisar, adquirir conhecimento e desenvolvê-las de forma a cumprir com o prazo.
