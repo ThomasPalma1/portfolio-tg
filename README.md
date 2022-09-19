@@ -129,9 +129,10 @@ Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologi
 </table>
   
 ## **Soft Skills que eu mais domino**
-
-* **Responsabilidade |** 
-* **Comunicação |** 
+* **Responsabilidade** 
+   - A responsabilidade é uma competência que está presente no meu cotidiano. Ter o compromisso de assumir uma atividade e realiza-lá dentro do prazo combinado é muito importante. Sempre que sinto dificuldade não penso duas vezes antes de solicitar ajuda de alguém com mais conhecimento que eu, visto que atrasar a atividade pode comprometer a entrega.
+* **Comunicação**
+   - Quando exercemos a comunicação de forma limpa e adequada, tudo encaminha-se para bons resultados. Durante os projetos sempre tentei manter uma boa comunicação com todos os membros da equipe, sempre dando **feedback's** do meu progresso e expressando o meu ponto de vista de forma construtiva para a qualidade do projeto. 
 
 ## **Contatos** <img src="./docs/github-icon.png"  width="19" height="19"> <img src="./docs/linkedin-icon.png"  width="19" height="19">
 * Este é o meu perfil no [GitHub](https://github.com/ThomasPalma1)! Nesta plataforma é onde faço upload de projetos acadêmicos e pessoais!
