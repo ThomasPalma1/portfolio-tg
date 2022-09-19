@@ -6,7 +6,7 @@
 
 ## **Introdução**
 
-<p align="justify">Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pela Etec Machado de Assis, em Caçapava. Atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas, pela Fatec Prof. Jessen Vidal, em São José dos Campos. Tenho grande interesse na área de DevOps, e já estou me familiarizando com tecnologias como Ansible, CI/CD, Docker, Linux, Python, Shell Script e Zabbix. No meu tempo livre gosto de jogar <b>osu!</b> e <b>Pokémon GO</b> e ler mangás. Meu estilo de música preferido é J-Rock e J-Pop.</p>
+<p align="justify">Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, pela Etec Machado de Assis, em Caçapava. Atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas, pela Fatec Prof. Jessen Vidal, em São José dos Campos. Tenho grande interesse na área de DevOps, e já estou me familiarizando com tecnologias como Ansible, CI/CD, Docker, Linux, Python, Shell Script e Zabbix. No meu tempo livre gosto de jogar <b>osu!</b> e <b>Pokémon GO</b> e ler mangás. Meu artista favorito é o Susumu Hirasawa.</p>
 
 
 
