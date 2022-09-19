@@ -1,4 +1,4 @@
-<h1 align="center"><b>Mr. Academy <a href="https://github.com/ThomasPalma1/FatecPI-01"><img src="./docs/external-link.png"  width="19" height="19"></a>
+<h1 align="center"><b>Mr. Academy <a href="https://github.com/ThomasPalma1/FatecPI-01"><img src="/docs/external-link.png"  width="19" height="19"></a>
 </h1></b>
 
 <p align="center"> 
