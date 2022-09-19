@@ -130,7 +130,8 @@ Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologi
   
 ## **Soft Skills que eu mais domino**
 
-
+* **Responsabilidade |** 
+* **Comunicação |** 
 
 ## **Contatos** <img src="./docs/github-icon.png"  width="19" height="19"> <img src="./docs/linkedin-icon.png"  width="19" height="19">
 * Este é o meu perfil no [GitHub](https://github.com/ThomasPalma1)! Nesta plataforma é onde faço upload de projetos acadêmicos e pessoais!

@@ -54,7 +54,8 @@ Ao longo do desenvolvimento deste projeto, tive a oportunidade de aprender e ope
 
 ## **Soft Skills**
 
-* **Responsabilidade |** Ter o compromisso de assumir uma atividade e realiza-lá dentro do prazo acordado;
-* **Gerenciamento de tempo |** Administrar de maneira mais eficiente o tempo para que fosse possível efetuar as entregas dentro do prazo estipulado;
-* **Organização e planejamento |** Compreendendo e aplicando a metodologia **Scrum** na prática, com o objetivo de administrar atividades e entregas;
-* **Proatividade |** Tive a aptidão para iniciar o desenvolvimento de atividades de maior prioridade e pesquisar, adquirir conhecimento e desenvolvê-las de forma a cumprir com o prazo.
+* **Gerenciamento de tempo |** Durante o projeto, exercendo a função de  **Scrum Master** pela primeira vez, precisei administrar de maneira mais eficiente o tempo. Realizava também, o monitoramento do **Burndown** para verificar se a entrega estav sob controle, tornando assim possível efetuar as entregas dentro do prazo estipulado;
+
+<br>
+
+* **Organização e planejamento |** Apliquei a metodologia **Scrum** na prática, com o objetivo de administrar a implementação de cada uma das funcionalidades do **Backlog** do produto através do gerenciamento com a plataforma **Trello**. Sendo assim, cada uma das atividades, juntamente ao seu progresso, tornaram-se mais perceptiveis para o time de desenvolvimento.
