@@ -68,32 +68,32 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
 
 <table>
    <tr>
-      <td><img src="/docs/FatecAPI-02/login_screen.png" width="550" height="560" /></td>
-      <td><img src="/docs/FatecAPI-02/register_screen.png" width="550" height="560" /></td>
+      <td><img src="/docs/FatecAPI-02/login_screen.png" width="450" height="250" /></td>
+      <td><img src="/docs/FatecAPI-02/register_screen.png" width="450" height="250" /></td>
    </tr>
    <tr>
       <td align="center">Autenticação de Usuário.</td>
       <td align="center">Registro de Usuário.</td>
    </tr>
    <tr>
-      <td><img src="/docs/FatecAPI-02/home_screen.png" width="550" height="560"/></td>
-      <td><img src="/docs/FatecAPI-02/project_screen.png" width="550" height="560" /></td>
+      <td><img src="/docs/FatecAPI-02/home_screen.png" width="450" height="250"/></td>
+      <td><img src="/docs/FatecAPI-02/project_screen.png" width="450" height="250" /></td>
    </tr>
    <tr>
       <td align="center">Tela inicial, onde todos os projetos da empresa são listados.</td>
       <td align="center">Painel das atividades de um projeto. Cada cor representa uma situação diferente.</td>
    </tr>
    <tr>
-      <td><img src="/docs/FatecAPI-02/project-user_screen.png" width="550" height="560" /></td>
-      <td><img src="/docs/FatecAPI-02/chart-about-project-activities_screen.png" width="550" height="560" /></td>
+      <td><img src="/docs/FatecAPI-02/project-user_screen.png" width="450" height="250" /></td>
+      <td><img src="/docs/FatecAPI-02/chart-about-project-activities_screen.png" width="450" height="250" /></td>
    </tr>
    <tr>
       <td align="center">Interface na qual se localiza todos os contribuidores do projeto.</td>
       <td align="center">Página que exibe o projeto graficamente.</td>
    </tr>
    <tr>
-      <td><img src="/docs/FatecAPI-02/chart-about-all-projects_screen.png" width="550" height="560" /></td>
-      <td><img src="/docs/FatecAPI-02/add-comment_screen.png" width="550" height="560"/></td>
+      <td><img src="/docs/FatecAPI-02/chart-about-all-projects_screen.png" width="450" height="250" /></td>
+      <td><img src="/docs/FatecAPI-02/add-comment_screen.png" width="450" height="250"/></td>
    </tr>
    <tr>
       <td align="center">Painel que demonstra todas as informações de todos os projetos.</td>
