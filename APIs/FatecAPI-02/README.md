@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <td align="center">Google Charts</td>
-        <td align="justify">Biblioteca com o propósito de criar gráficos.</td>
+        <td align="justify">Biblioteca com o intuito de organizar e exibir dados de forma gráfica.</td>
     </tr>
     <tr>
         <td align="center">HTML</td>
@@ -44,7 +44,7 @@
 
 ## **Contribuições Pessoais**
 
-<p align="justify">.</p>
+<p align="justify"></p>
 
 ## **Hard Skills**
 
@@ -64,3 +64,21 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
 <br>
 
 * **Soft Skills |** .
+
+
+<p float="left">
+   <img src="/docs/FatecAPI-02/login_screen.png" width="400" />
+   <img src="/docs/FatecAPI-02/register_screen.png" width="400" />
+</p>
+<p float="left">
+   <img src="/docs/FatecAPI-02/home_screen.png" width="400" />
+   <img src="/docs/FatecAPI-02/project_screen.png" width="400" />
+</p>
+<p float="left">
+   <img src="/docs/FatecAPI-02/project-user_screen.png" width="400" />
+   <img src="/docs/FatecAPI-02/chart-about-project-activities_screen.png" width="400" />
+</p>
+<p float="left">
+   <img src="/docs/FatecAPI-02/chart-about-all-projects_screen.png" width="400" />
+   <img src="/docs/FatecAPI-02/add-comment_screen.png" width="400" />
+</p>
