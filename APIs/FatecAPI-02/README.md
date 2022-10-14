@@ -7,7 +7,7 @@
 
 ## **Sobre o Projeto**
 
-<p align="justify">.</p>
+<p align="justify">A proposta do projeto era desenvolver para o nosso cliente externo, que na época era a <b>GSW</b>, um painel de visualização. Em outras palavras, um <i><b>Dashboard</b></i>. Isso possibilitaria a realização de uma ampla analise de dados dos projetos em andamento, bem como conduzir e auxiliar os desenvolvedores responsáveis. O objetivo principal, era saber tudo o que está acontecendo nos projetos em abertos dentro da empresa, sem ter necessidade de interferir diretamente em seu desenvolvimento. Portando, viabilizando a transmissão das informações de forma rápida e eficiente.</p>
 
 ## **Tecnologias Utilizadas**
 
@@ -17,16 +17,12 @@
         <th>Finalidade</th>
     </tr>
     <tr>
-        <td align="center">Bootstrap</td>
-        <td align="justify">.</td>
-    </tr>
-    <tr>
         <td align="center">CSS</td>
         <td align="justify">Estilização dos componentes da interface.</td>
     </tr>
     <tr>
         <td align="center">Google Charts</td>
-        <td align="justify">.</td>
+        <td align="justify">Ferramenta com o propósito de criar gráficos</td>
     </tr>
     <tr>
         <td align="center">HTML</td>
@@ -52,15 +48,14 @@
 
 ## **Hard Skills**
 
-O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu segundo semestre na Fatec. Tive a oportunidade de aprender, aprimorar e operar as seguintes tecnologias:
+O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu segundo semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
 
-  1.  **Bootstrap** &#8594; Sei fazer com auxílio;
+  1.  **CSS** &#8594; Sei fazer com autonomia;
   2.  **Google Charts** &#8594; Sei fazer com auxílio;
-  3.  **CSS** &#8594; Sei fazer com autonomia;
-  4.  **HTML** &#8594; Sei fazer com autonomia;
-  5.  **JavaScript** &#8594; Sei fazer com autonomia;
-  6.  **Node** &#8594; Sei fazer com auxílio;
-  7.  **PostgreSQL** &#8594; Sei fazer com autonomia.
+  3.  **HTML** &#8594; Sei fazer com autonomia;
+  4.  **JavaScript** &#8594; Sei fazer com autonomia;
+  5.  **Node** &#8594; Sei fazer com auxílio;
+  6.  **PostgreSQL** &#8594; Sei fazer com autonomia.
 
 ## **Soft Skills**
 
