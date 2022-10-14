@@ -75,8 +75,6 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
       <td align="justify">Autenticação de Usuário.</td>
       <td align="justify">Registro de Usuário.</td>
    </tr>
-</table>
-<table>
    <tr>
       <td><img src="/docs/FatecAPI-02/home_screen.png" width="550"/></td>
       <td><img src="/docs/FatecAPI-02/project_screen.png" width="550" /></td>
@@ -85,8 +83,6 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
       <td align="justify">Tela inicial, onde todos os projetos da empresa são listados.</td>
       <td align="justify">Painel das atividades de um projeto. Cada cor representa uma situação diferente.</td>
    </tr>
-</table>
-<table>
    <tr>
       <td><img src="/docs/FatecAPI-02/project-user_screen.png" width="550" /></td>
       <td><img src="/docs/FatecAPI-02/chart-about-project-activities_screen.png" width="550" /></td>
@@ -94,7 +90,5 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
    <tr>
       <td align="justify">Interface na qual se localiza todos os contribuidores do projeto.</td>
       <td align="justify">Página que exibe o projeto graficamente.</td>
-      
-      
    </tr>
 </table>
