@@ -92,8 +92,8 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
       <td><img src="/docs/FatecAPI-02/chart-about-project-activities_screen.png" width="550" /></td>
    </tr>
    <tr>
-      <td>Interface na qual se localiza todos os contribuidores do projeto.</td>
-      <td>Página que exibe o projeto graficamente.</td>
+      <td align="justify">Interface na qual se localiza todos os contribuidores do projeto.</td>
+      <td align="justify">Página que exibe o projeto graficamente.</td>
       
       
    </tr>
