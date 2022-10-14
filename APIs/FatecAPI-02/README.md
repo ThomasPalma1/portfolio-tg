@@ -70,15 +70,15 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
    <img src="/docs/FatecAPI-02/login_screen.png" width="400" />
    <img src="/docs/FatecAPI-02/register_screen.png" width="400" />
 </p>
-<p float="left">
-   <img src="/docs/FatecAPI-02/home_screen.png" width="400" />
-   <img src="/docs/FatecAPI-02/project_screen.png" width="400" />
+<p float="center">
+   <img src="/docs/FatecAPI-02/home_screen.png" width="500" />
+   <img src="/docs/FatecAPI-02/project_screen.png" width="500" />
 </p>
-<p float="left">
-   <img src="/docs/FatecAPI-02/project-user_screen.png" width="400" />
-   <img src="/docs/FatecAPI-02/chart-about-project-activities_screen.png" width="400" />
+<p float="center">
+   <img src="/docs/FatecAPI-02/project-user_screen.png" width="500" />
+   <img src="/docs/FatecAPI-02/chart-about-project-activities_screen.png" width="500" />
 </p>
-<p float="left">
-   <img src="/docs/FatecAPI-02/chart-about-all-projects_screen.png" width="400" />
-   <img src="/docs/FatecAPI-02/add-comment_screen.png" width="400" />
+<p float="center">
+   <img src="/docs/FatecAPI-02/chart-about-all-projects_screen.png" width="500" />
+   <img src="/docs/FatecAPI-02/add-comment_screen.png" width="500" />
 </p>
