@@ -2,7 +2,7 @@
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/circle.png" width="150" height="150">
+   <img src="/docs/circle.svg" width="150" height="150">
 </p>
 
 ## **Sobre o Projeto**
@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <td align="center">Google Charts</td>
-        <td align="justify">Ferramenta com o propósito de criar gráficos</td>
+        <td align="justify">Biblioteca com o propósito de criar gráficos.</td>
     </tr>
     <tr>
         <td align="center">HTML</td>

@@ -2,7 +2,7 @@
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/circle.png" width="150" height="150">
+   <img src="/docs/ionx.svg" width="150" height="150">
 </p>
 
 ## **Sobre o Projeto**
