@@ -68,8 +68,8 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
 
 <table>
    <tr>
-      <td><img src="/docs/FatecAPI-02/login_screen.png" width="450" height="250" /></td>
-      <td><img src="/docs/FatecAPI-02/register_screen.png" width="450" height="250" /></td>
+      <td width="455"><img src="/docs/FatecAPI-02/login_screen.png" width="450" height="250" /></td>
+      <td width="455"><img src="/docs/FatecAPI-02/register_screen.png" width="450" height="250" /></td>
    </tr>
    <tr>
       <td align="center">Autenticação de Usuário.</td>
