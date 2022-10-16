@@ -44,7 +44,7 @@
 
 ## **Contribuições Pessoais**
 
-<p align="justify"></p>
+<p align="justify">Neste segundo projeto, exerci novamente a posição de Scrum Master. Conforme realizado no primeiro projeto, auxiliei a equipe na eliminação de obstáculos e assegurei que todos os desenvolvedores do projeto caminhassem lado a lado com os princípios do desenvolvimento ágil. Da mesma forma, ajudei na constituição do back-end. Do lado do servidor, tive aptidão para desenvolver a arquitetura do sistema, envio de e-mail, criação de gráficos e tratamento dos dados recebidos.</p>
 
 ## **Hard Skills**
 
