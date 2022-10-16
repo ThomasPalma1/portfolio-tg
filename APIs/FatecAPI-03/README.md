@@ -63,3 +63,39 @@ O Ion-X foi desenvolvido durante o **segundo semestre** de **2021**, no meu terc
 <br>
 
 * **Soft Skills |** .
+
+
+<table>
+   <tr>
+      <td width="455"><img src="/docs/FatecAPI-03/login_screen.png" width="450" height="250" /></td>
+      <td width="455"><img src="/docs/FatecAPI-03/register_screen.png" width="450" height="250" /></td>
+   </tr>
+   <tr>
+      <td align="center">Autenticação de Usuário.</td>
+      <td align="center">Registro de Usuário.</td>
+   </tr>
+   <tr>
+      <td><img src="/docs/FatecAPI-03/" width="450" height="250"/></td>
+      <td><img src="/docs/FatecAPI-03/" width="450" height="250" /></td>
+   </tr>
+   <tr>
+      <td align="center">Tela inicial, onde todos os projetos da empresa são listados.</td>
+      <td align="center">Painel das atividades de um projeto. Cada cor representa uma situação diferente.</td>
+   </tr>
+   <tr>
+      <td><img src="/docs/FatecAPI-03/" width="450" height="250" /></td>
+      <td><img src="/docs/FatecAPI-03/" width="450" height="250" /></td>
+   </tr>
+   <tr>
+      <td align="center">Interface na qual se localiza todos os contribuidores do projeto.</td>
+      <td align="center">Página que exibe o projeto graficamente.</td>
+   </tr>
+   <tr>
+      <td><img src="/docs/FatecAPI-03/" width="450" height="250" /></td>
+      <td><img src="/docs/FatecAPI-03/" width="450" height="250"/></td>
+   </tr>
+   <tr>
+      <td align="center">Painel que demonstra todas as informações de todos os projetos.</td>
+      <td align="center">Tela onde é possivel realizar o encaminhamento de e-mails para os contribuidores do projeto.</td>
+   </tr>
+</table>
