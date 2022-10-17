@@ -17,10 +17,6 @@
         <th>Finalidade</th>
     </tr>
     <tr>
-        <td align="center">Bootstrap</td>
-        <td align="justify">.</td>
-    </tr>
-    <tr>
         <td align="center">CSS</td>
         <td align="justify">Estilização dos componentes da interface.</td>
     </tr>
@@ -29,16 +25,16 @@
         <td align="left">Utilizado para criar e estruturar páginas web.</td>
     </tr>
     <tr>
-        <td align="center">JavaScript</td>
-        <td align="left">Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.</td>
-    </tr>
-    <tr>
-        <td align="center">Node</td>
+        <td align="center">Java</td>
         <td align="left">Usado para o desenvolvimento back-end da aplicação.</td>
     </tr>
     <tr>
         <td align="center">PostgreSQL</td>
         <td align="left">Gerenciar e manipular dados do banco de dados.</td>
+    </tr>
+    <tr>
+        <td align="center">Spring</td>
+        <td align="left">Framework para o Java que facilita a criação utilizando módulos independentes.</td>
 
 </table>
 
@@ -50,11 +46,11 @@
 
 O Ion-X foi desenvolvido durante o **segundo semestre** de **2021**, no meu terceiro semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
 
-  1.  **Bootstrap** &#8594; Sei fazer com auxílio;
-  3.  **CSS** &#8594; Sei fazer com autonomia;
-  4.  **HTML** &#8594; Sei fazer com autonomia;
-  5.  **JavaScript** &#8594; Sei fazer com autonomia;
-  7.  **PostgreSQL** &#8594; Sei fazer com autonomia.
+  1.  **CSS** &#8594; Sei fazer com autonomia;
+  2.  **HTML** &#8594; Sei fazer com autonomia;
+  3.  **Java** &#8594; Sei fazer com auxílio;
+  4.  **PostgreSQL** &#8594; Sei fazer com autonomia;
+  5.  **Spring** &#8594; Sei fazer com auxílio.
 
 ## **Soft Skills**
 
@@ -79,23 +75,23 @@ O Ion-X foi desenvolvido durante o **segundo semestre** de **2021**, no meu terc
       <td><img src="/docs/FatecAPI-03/registered-customers_screen.png" width="450" height="250" /></td>
    </tr>
    <tr>
-      <td align="center">Texto.</td>
-      <td align="center">Texto.</td>
+      <td align="center">Descrição.</td>
+      <td align="center">Descrição.</td>
    </tr>
    <tr>
       <td><img src="/docs/FatecAPI-03/clients-data_screen.png" width="450" height="250" /></td>
       <td><img src="/docs/FatecAPI-03/contacts_screen.png" width="450" height="250" /></td>
    </tr>
    <tr>
-      <td align="center">Texto.</td>
-      <td align="center">Texto.</td>
+      <td align="center">Descrição.</td>
+      <td align="center">Descrição.</td>
    </tr>
    <tr>
       <td><img src="/docs/FatecAPI-03/products_screen.png" width="450" height="250" /></td>
       <td><img src="/docs/FatecAPI-03/customer-registration_screen.png" width="450" height="250"/></td>
    </tr>
    <tr>
-      <td align="center">Texto.</td>
-      <td align="center">Texto.</td>
+      <td align="center">Descrição.</td>
+      <td align="center">Descrição.</td>
    </tr>
 </table>
