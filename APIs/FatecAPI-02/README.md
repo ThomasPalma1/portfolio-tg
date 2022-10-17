@@ -65,6 +65,9 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
 
 * **Soft Skills |** .
 
+## **Imagens da aplicação em funcionamento**
+
+<p align="justify">A seguir é possível visualizar imagens da aplicação em seu estado final. Cada imagem possui uma simples descrição expressando do que se trata.</p>
 
 <table>
    <tr>
@@ -100,3 +103,7 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
       <td align="center">Tela onde é possivel realizar o encaminhamento de e-mails para os contribuidores do projeto.</td>
    </tr>
 </table>
+
+## **Vídeo completo** <img src="/docs/youtube-icon.svg"  width="19" height="19">
+
+<p align="justify">Se caso houver interesse em assistir o vídeo do projeto na integra, basta clicar no <a href="https://youtu.be/jk3iHov3_ak">link</a>!

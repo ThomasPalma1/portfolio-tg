@@ -2,7 +2,7 @@
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/owl.png" width="150" height="150">
+   <img src="/docs/FatecAPI-01/owl.png" width="150" height="150">
 </p>
 
 ## **Sobre o Projeto**
