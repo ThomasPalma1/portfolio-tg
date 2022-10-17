@@ -59,3 +59,13 @@ O Mr. Academy foi desenvolvido durante o **segundo semestre** de **2020**, no me
 <br>
 
 * **Organização e planejamento |** Apliquei a metodologia **Scrum** na prática, com o objetivo de administrar a implementação de cada uma das funcionalidades do **Backlog** do produto através do gerenciamento com a plataforma **Trello**. Sendo assim, cada uma das atividades, juntamente ao seu progresso, tornaram-se mais perceptiveis para o time de desenvolvimento.
+
+## **GIF da aplicação**
+
+<p align="justify">A seguir é possível visualizar um GIF da aplicação em seu estado final.</p>
+
+<h1 align="center"><img src="/docs/FatecAPI-01/final-video_api01.gif"></h1>
+
+## **Vídeo da aplicação em funcionamento** <img src="/docs/youtube-icon.svg"  width="19" height="19">
+
+<p align="justify">Caso possua interesse em assistir o vídeo do projeto na íntegra, basta clicar <a href="https://youtu.be/dpJSavXZcFk">aqui</a>!
