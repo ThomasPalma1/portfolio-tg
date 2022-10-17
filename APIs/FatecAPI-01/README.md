@@ -64,7 +64,7 @@ O Mr. Academy foi desenvolvido durante o **segundo semestre** de **2020**, no me
 
 <p align="justify">A seguir é possível visualizar um GIF da aplicação em seu estado final.</p>
 
-<h1 align="center"><img src="/docs/FatecAPI-01/final-video_api01.gif"></h1>
+<h1 align="center"><img src="/docs/FatecAPI-01/final-video_api01.gif" width="640" height="360"></h1>
 
 ## **Vídeo da aplicação em funcionamento** <img src="/docs/youtube-icon.svg"  width="19" height="19">
 
