@@ -65,9 +65,9 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
 
 * **Harmonia |** Paralelamente à empatia, precisei estalabecer a harmonia entre os desenvolvedores, buscando o consenso entre todos. É muito importante que a equipe caminhe em concordância durante toda a trajetoria do projeto. Procurei levar todos rumo à reconciliação para obter um ponto em comum e prosseguir com a implementação do projeto.
 
-## **Imagens da aplicação em funcionamento**
+## **Imagens da aplicação**
 
-<p align="justify">Imagens da aplicação: A seguir é possível visualizar imagens da aplicação em seu estado final. Cada imagem possui abaixo a descrição do requisito retratado.</p>
+<p align="justify">A seguir é possível visualizar as imagens da aplicação em seu estado final. Cada imagem possui abaixo a descrição do requisito retratado.</p>
 
 <table>
    <tr>
@@ -75,8 +75,8 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
       <td width="455"><img src="/docs/FatecAPI-02/register_screen.png" width="450" height="250" /></td>
    </tr>
    <tr>
-      <td align="center">Autenticação de Usuário.</td>
-      <td align="center">Registro de Usuário.</td>
+      <td align="center">Autenticação de Usuários.</td>
+      <td align="center">Registro de Usuários.</td>
    </tr>
    <tr>
       <td><img src="/docs/FatecAPI-02/home_screen.png" width="450" height="250"/></td>
@@ -84,15 +84,15 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
    </tr>
    <tr>
       <td align="center">Tela inicial, onde todos os projetos da empresa são listados.</td>
-      <td align="center">Painel das atividades de um projeto. Cada cor representa uma situação diferente.</td>
+      <td align="center">Painel das atividades de um projeto. Cada cor representa uma situação diferente (em progresso, em revisão, em teste etc).</td>
    </tr>
    <tr>
       <td><img src="/docs/FatecAPI-02/project-user_screen.png" width="450" height="250" /></td>
       <td><img src="/docs/FatecAPI-02/chart-about-project-activities_screen.png" width="450" height="250" /></td>
    </tr>
    <tr>
-      <td align="center">Interface na qual se localiza todos os contribuidores do projeto.</td>
-      <td align="center">Página que exibe o projeto graficamente.</td>
+      <td align="center">Interface na qual se localizam todos os contribuidores do projeto.</td>
+      <td align="center"><b>Dashboard </b>que engloba todas as informações de um projeto.</td>
    </tr>
    <tr>
       <td><img src="/docs/FatecAPI-02/chart-about-all-projects_screen.png" width="450" height="250" /></td>
@@ -104,6 +104,6 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
    </tr>
 </table>
 
-## **Vídeo completo** <img src="/docs/youtube-icon.svg"  width="19" height="19">
+## **Vídeo da aplicação em funcionamento** <img src="/docs/youtube-icon.svg"  width="19" height="19">
 
-<p align="justify">Vídeo da aplicação em funcionamento: Caso possua interesse em assistir o vídeo do projeto na íntegra, basta clicar no <a href="https://youtu.be/jk3iHov3_ak">aqui</a>!
+<p align="justify">Caso possua interesse em assistir o vídeo do projeto na íntegra, basta clicar <a href="https://youtu.be/jk3iHov3_ak">aqui</a>!
