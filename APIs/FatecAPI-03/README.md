@@ -7,7 +7,7 @@
 
 ## **Sobre o Projeto**
 
-<p align="justify">Prosseguindo para o terceiro semestre, o nosso cliente externo era a Ionic Health. Empresa especializada em inovação e transformação digital para a saúde. O objetivo do projeto consistia em desenvolver uma plataforma que desempenhasse o gerenciamento de contatos e vendas com cada um desses contatos. Desta forma, através da plataforma é possivel desempenhar a organização dos contatos, a gestão de pipeline, o monitoramento e supervisão de clientes. Todavia, um dos desafios que foi passado por eles era de desenvolver uma interface gráfica de fácil personalização, trazendo autonomia para a gestão da plataforma.</p>
+<p align="justify">No terceiro semestre, a empresa parceira foi a Ionic Health. A Ionic Health é uma empresa especializada em inovação e transformação digital para a saúde. O objetivo do projeto consistia em desenvolver uma plataforma que desempenhasse o gerenciamento de contatos e vendas com cada cliente de uma empresa. Desta forma, através do sistema seria possível desempenhar a organização, monitoramento e supervisão do processo de comunicação com clientes, além da gestão de pipelines.</p>
 
 ## **Tecnologias Utilizadas**
 
@@ -33,14 +33,14 @@
         <td align="left">Gerenciar e manipular dados do banco de dados.</td>
     </tr>
     <tr>
-        <td align="center">Spring</td>
-        <td align="left">Framework para o Java que facilita a criação de módulos independentes.</td>
+        <td align="center">Spring Boot</td>
+        <td align="left">Framework Java utilizado para desenvolver uma REST API responsável por possibilitar a troca de dados entre o cliente e o servidor.</td>
 
 </table>
 
 ## **Contribuições Pessoais**
 
-<p align="justify">Desempenhei a posição de membro da equipe de desenvolvimento. Do lado do servidor, apresentei competência para desenvolver a arquitetura do sistema, autenticação de usuário, hierarquia dos usuários e envio de e-mail.</p>
+<p align="justify">Fui membro da equipe de desenvolvimento. Do lado do servidor, apresentei competência para desenvolver a arquitetura do sistema, autenticação de usuários, hierarquia/nível de acesso dos usuários e envio de e-mails.</p>
 
 ## **Hard Skills**
 
@@ -50,15 +50,15 @@ O Ion-X foi desenvolvido durante o **segundo semestre** de **2021**, no meu terc
   2.  **HTML** &#8594; Sei fazer com autonomia;
   3.  **Java** &#8594; Sei fazer com auxílio;
   4.  **PostgreSQL** &#8594; Sei fazer com autonomia;
-  5.  **Spring** &#8594; Sei fazer com auxílio.
+  5.  **Spring Boot** &#8594; Sei fazer com auxílio.
 
 ## **Soft Skills**
 
-* **Soft Skills |** .
+* **Foco |** Para a implementação do servidor do projeto, foi necessário pesquisar e aprender sobre Java e Spring Boot. Sendo assim, constantemente implementei melhorias no código-fonte do projeto.
 
 <br>
 
-* **Soft Skills |** .
+* **Estudioso |** Tasks que faziam parte dos requisitos foram as quais desenvolvi com maior foco, visando o melhor resultado e realizando a melhor escolha parxa obter maior aproveitamento de código e menor retrabalho durante o desenvolvimento das sprints.
 
 
 <table>

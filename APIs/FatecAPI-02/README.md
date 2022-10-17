@@ -7,7 +7,7 @@
 
 ## **Sobre o Projeto**
 
-<p align="justify">O problema pelo qual passava a empresa parceira, GSW, era de que não havia uma plataforma centralizada para que os projetos da empresa fossem adiministrados internamente. Sendo assim, a minha equipe propôs o desenvolvimento de um dashboard para possibilitar a realização de uma ampla análise dos dados de cada um dos projetos em andamento, bem como conduzir e auxiliar os desenvolvedores responsáveis. Dessa forma, nosso projeto viabilizou a visualização de tudo o que estaria acontecendo nos projetos em aberto dentro da empresa. Sendo assim, a difusão das informações tornou-se mais rápida e eficiente.</p>
+<p align="justify">O problema pelo qual passava a empresa parceira, <b>GSW</b>, era de que não havia uma plataforma centralizada para que os projetos da empresa fossem administrados internamente. Sendo assim, a minha equipe propôs o desenvolvimento de um dashboard para possibilitar a realização de uma ampla análise dos dados de cada um dos projetos em andamento, bem como conduzir e auxiliar os desenvolvedores responsáveis. Dessa forma, nosso projeto viabilizou a visualização de tudo o que estaria acontecendo nos projetos em aberto dentro da empresa. Sendo assim, a difusão das informações tornou-se mais rápida e eficiente.</p>
 
 ## **Tecnologias Utilizadas**
 
@@ -44,7 +44,7 @@
 
 ## **Contribuições Pessoais**
 
-<p align="justify">Neste segundo projeto, exerci novamente a posição de Scrum Master. Conforme realizado no primeiro projeto, auxiliei a equipe na eliminação de obstáculos e assegurei que todos os desenvolvedores do projeto caminhassem lado a lado com os princípios do desenvolvimento ágil. Da mesma forma, ajudei na constituição do back-end. Do lado do servidor, tive aptidão para desenvolver a arquitetura do sistema, envio de e-mail, criação de gráficos e tratamento dos dados recebidos.</p>
+<p align="justify">Neste segundo projeto, exerci novamente a posição de Scrum Master. Conforme realizado no primeiro projeto, auxiliei a equipe na eliminação de obstáculos e assegurei que todos os desenvolvedores do projeto caminhassem lado a lado com os princípios do desenvolvimento ágil. Da mesma forma, ajudei na constituição do back-end. Do lado do servidor, tive aptidão para desenvolver a arquitetura do sistema, envio de e-mail, criação de gráficos e tratamento dos dados recebidos para melhor exibição no cliente.</p>
 
 ## **Hard Skills**
 
