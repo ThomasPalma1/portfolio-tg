@@ -7,7 +7,7 @@
 
 ## **Sobre o Projeto**
 
-<p align="justify">A proposta do projeto era desenvolver para o nosso cliente externo, que na época era a <b>GSW</b>, um painel de visualização. Em outras palavras, um <i><b>Dashboard</b></i>. Isso possibilitaria a realização de uma ampla analise de dados dos projetos em andamento, bem como conduzir e auxiliar os desenvolvedores responsáveis. O objetivo principal, era saber tudo o que está acontecendo nos projetos em abertos dentro da empresa, sem ter necessidade de interferir diretamente em seu desenvolvimento. Portando, viabilizando a transmissão das informações de forma rápida e eficiente.</p>
+<p align="justify">O problema pelo qual passava a empresa parceira, GSW, era de que não havia uma plataforma centralizada para que os projetos da empresa fossem adiministrados internamente. Sendo assim, a minha equipe propôs o desenvolvimento de um dashboard para possibilitar a realização de uma ampla análise dos dados de cada um dos projetos em andamento, bem como conduzir e auxiliar os desenvolvedores responsáveis. Dessa forma, nosso projeto viabilizou a visualização de tudo o que estaria acontecendo nos projetos em aberto dentro da empresa. Sendo assim, a difusão das informações tornou-se mais rápida e eficiente.</p>
 
 ## **Tecnologias Utilizadas**
 
@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <td align="center">Google Charts</td>
-        <td align="justify">Biblioteca com o intuito de organizar e exibir dados de forma gráfica.</td>
+        <td align="justify">Biblioteca utilizada com o intuito de organizar e exibir, em gráficos, os dados extraídos dos projetos, de forma a enriquecer o <i><b>dashboard</i></b></td>
     </tr>
     <tr>
         <td align="center">HTML</td>
@@ -33,7 +33,7 @@
         <td align="left">Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.</td>
     </tr>
     <tr>
-        <td align="center">Node</td>
+        <td align="center">NodeJS</td>
         <td align="left">Usado para o desenvolvimento back-end da aplicação.</td>
     </tr>
     <tr>
@@ -59,15 +59,15 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
 
 ## **Soft Skills**
 
-* **Empatia |** Durante o projeto, exercendo a função de Scrum Master pela segunda vez, precisei solidificar a minha empatia com os outros integrantes, compreendendo a situação e dificuldade de cada um, tanto técnica quanto emocional. Fazendo com que fosse possível efetuar as entregas dentro do prazo estipulado.
+* **Empatia |** Durante o projeto, exercendo a função de Scrum Master pela segunda vez, precisei solidificar a minha empatia com os outros integrantes, compreendendo a situação e dificuldade de cada um, tanto técnica quanto emocional. Consequentemente, tive que lidar com situações que demandavam análise individual para que a equipe não perdesse a harmonia e efetuasse as entregas dentro do prazo estipulado.
 
 <br>
 
-* **Harmonia |** Paralelamente a empatia, precisei estalabecer a harmonia entre os desenvolvedores, buscando o consenso entre todos. É muito importante que a equipe caminha em concordância durante toda a trajetoria do projeto. Caso acontecesse algum conflito, eu procurava levar todos rumo à reconciliação.
+* **Harmonia |** Paralelamente à empatia, precisei estalabecer a harmonia entre os desenvolvedores, buscando o consenso entre todos. É muito importante que a equipe caminhe em concordância durante toda a trajetoria do projeto. Procurei levar todos rumo à reconciliação para obter um ponto em comum e prosseguir com a implementação do projeto.
 
 ## **Imagens da aplicação em funcionamento**
 
-<p align="justify">A seguir é possível visualizar imagens da aplicação em seu estado final. Cada imagem possui uma simples descrição expressando do que se trata.</p>
+<p align="justify">Imagens da aplicação: A seguir é possível visualizar imagens da aplicação em seu estado final. Cada imagem possui abaixo a descrição do requisito retratado.</p>
 
 <table>
    <tr>
@@ -106,4 +106,4 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
 
 ## **Vídeo completo** <img src="/docs/youtube-icon.svg"  width="19" height="19">
 
-<p align="justify">Se caso houver interesse em assistir o vídeo do projeto na integra, basta clicar no <a href="https://youtu.be/jk3iHov3_ak">link</a>!
+<p align="justify">Vídeo da aplicação em funcionamento: Caso possua interesse em assistir o vídeo do projeto na íntegra, basta clicar no <a href="https://youtu.be/jk3iHov3_ak">aqui</a>!

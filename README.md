@@ -15,7 +15,7 @@
  > **Técnico em Desenvolvimento de Sistemas | ETEC Machado de Assis – Caçapava, SP. Conclusão: 2019.**
 
 
- <p align="justify">Durante a trajetória do meu curso técnico em Desenvolvimento de Sistemas, consegui aprimorar minhas Hard Skills. Tive contato com as linguagens de programação Java, PHP e Python. Aprendi também Arduino, Bootstrap, CSS, HTML e SQL. Ao final do curso, precisei desenvolver, em equipe, um Trabalho de Conclusão de Curso (TCC). O projeto consistia em um sistema de gerenciamento para a administração de barbearias, no qual era possível manusear informações pessoais dos clientes, agendar um horário para atendimento, efetuar compra e pagamento de serviços e produtos. Como uma opção especial, adicionamos o gerenciamento de fidelidade do cliente.</p>
+ <p align="justify">Durante a trajetória do meu curso técnico em Desenvolvimento de Sistemas, consegui aprimorar minhas Hard Skills. Tive contato com as linguagens de programação Java, PHP e Python. Aprendi também Arduino, Bootstrap, CSS, HTML e SQL. Ao final do curso, precisei desenvolver, em equipe, um Trabalho de Conclusão de Curso (TCC). O projeto consistia em um sistema de gerenciamento para a administração de barbearias, no qual era possível manusear informações pessoais dos clientes, agendar um horário para atendimento, efetuar a compra e o pagamento de serviços e produtos. Como uma opção especial, adicionamos o gerenciamento de fidelidade do cliente.</p>
 
 
 > **Análise e Desenvolvimento de Sistemas | FATEC Prof. Jessen Vidal – São José dos Campos, SP. Previsão para conclusão: julho de 2023.**
@@ -128,12 +128,12 @@ Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologi
     </tr>
 </table>
   
-## **Soft Skills que eu mais domino**
+## **Minhas Principais Soft Skills**
 * **Responsabilidade** 
    - A responsabilidade é uma competência que está presente no meu cotidiano. Ter o compromisso de assumir uma atividade e realiza-lá dentro do prazo combinado é muito importante. Sempre que sinto dificuldade não penso duas vezes antes de solicitar ajuda de alguém com mais conhecimento que eu, visto que atrasar a atividade pode comprometer a entrega.
 * **Comunicação**
    - Quando exercemos a comunicação de forma limpa e adequada, tudo encaminha-se para bons resultados. Durante os projetos sempre tentei manter uma boa comunicação com todos os membros da equipe, sempre dando **feedback's** do meu progresso e expressando o meu ponto de vista de forma construtiva para a qualidade do projeto. 
 
 ## **Contatos** <img src="./docs/github-icon.png"  width="19" height="19"> <img src="./docs/linkedin-icon.png"  width="19" height="19">
-* Este é o meu perfil no [GitHub](https://github.com/ThomasPalma1)! Nesta plataforma é onde faço upload de projetos acadêmicos e pessoais!
-* Este é o meu perfil no [LinkedIn](https://www.linkedin.com/in/thomas-palma-0764b81b3/)! Nesta plataforma é onde eu compartilho informações pertinentes à minha carreira profissional na área de tecnologia.
+* Para visualizar meus projetos acadêmicos e pessoais, minhas interações e contribuições em repositórios, veja o meu [GitHub](https://github.com/ThomasPalma1)!
+* Caso se interesse em visualizar informações pertinentes à minha carreira profissional, na área da tecnologia, acesse o meu [LinkedIn](https://www.linkedin.com/in/thomas-palma-0764b81b3/)!
