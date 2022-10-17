@@ -104,6 +104,6 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
    </tr>
 </table>
 
-## **Vídeo da aplicação em funcionamento** <img src="/docs/youtube-icon.svg"  width="19" height="19">
+<h2 align="center">Vídeo da aplicação em funcionamento <img src="/docs/youtube-icon.svg"  width="19" height="19"></h1>
 
-<p align="justify">Caso possua interesse em assistir o vídeo do projeto na íntegra, basta clicar <a href="https://youtu.be/jk3iHov3_ak">aqui</a>!
+<p align="center">Caso possua interesse em assistir o vídeo do projeto na íntegra, basta clicar <a href="https://youtu.be/jk3iHov3_ak">aqui</a>!

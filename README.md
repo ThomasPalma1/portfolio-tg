@@ -33,7 +33,7 @@ A seguir há uma breve descrição de cada projeto desenvolvido, nos quais eu er
    2. [Pantion](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-02): Website com foco em dashboards para gestão de projetos e acompanhamento de performance dos desenvolvedores responsáveis.
 
 
-   3. [ION-X](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-03): Aplicação Web desenvolvida com o objetivo de realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes.
+   3. [Ion-X](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-03): Aplicação Web desenvolvida com o objetivo de realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes.
 
 
    4. [TecSoja](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-04): Aplicação Móvel para efetuar a consolidação de dados e informações sobre o cultivo da soja, viabilizando ao agricultor uma percepção absoluta da produtividade a cada cultivo e produtividade total, além de possibilitar a comparação da produtividade e áreas plantadas nos municípios.
