@@ -59,11 +59,11 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
 
 ## **Soft Skills**
 
-* **Soft Skills |** .
+* **Empatia |** Durante o projeto, exercendo a função de Scrum Master pela segunda vez, precisei solidificar a minha empatia com os outros integrantes, compreendendo a situação e dificuldade de cada um, tanto técnica quanto emocional. Fazendo com que fosse possível efetuar as entregas dentro do prazo estipulado.
 
 <br>
 
-* **Soft Skills |** .
+* **Harmonia |** Paralelamente a empatia, precisei estalabecer a harmonia entre os desenvolvedores, buscando o consenso entre todos. É muito importante que a equipe caminha em concordância durante toda a trajetoria do projeto. Caso acontecesse algum conflito, eu procurava levar todos rumo à reconciliação.
 
 ## **Imagens da aplicação em funcionamento**
 
