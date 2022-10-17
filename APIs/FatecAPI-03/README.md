@@ -7,7 +7,7 @@
 
 ## **Sobre o Projeto**
 
-<p align="justify">.</p>
+<p align="justify">Prosseguindo para o terceiro semestre, o nosso cliente externo era a Ionic Health. Empresa especializada em inovação e transformação digital para a saúde. O objetivo do projeto consistia em desenvolver uma plataforma que desempenhasse o gerenciamento de contatos e vendas com cada um desses contatos. Desta forma, através da plataforma é possivel desempenhar a organização dos contatos, a gestão de pipeline, o monitoramento e supervisão de clientes. Todavia, um dos desafios que foi passado por eles era de desenvolver uma interface gráfica de fácil personalização, trazendo autonomia para a gestão da plataforma.</p>
 
 ## **Tecnologias Utilizadas**
 
@@ -34,13 +34,13 @@
     </tr>
     <tr>
         <td align="center">Spring</td>
-        <td align="left">Framework para o Java que facilita a criação utilizando módulos independentes.</td>
+        <td align="left">Framework para o Java que facilita a criação de módulos independentes.</td>
 
 </table>
 
 ## **Contribuições Pessoais**
 
-<p align="justify">.</p>
+<p align="justify">Desempenhei a posição de membro da equipe de desenvolvimento. Do lado do servidor, apresentei competência para desenvolver a arquitetura do sistema, autenticação de usuário, hierarquia dos usuários e envio de e-mail.</p>
 
 ## **Hard Skills**
 
