@@ -7,11 +7,11 @@
 
 ## **Sobre o Projeto**
 
-<p align="justify">No terceiro semestre, a empresa parceira foi a Ionic Health. O objetivo do projeto consistia em desenvolver uma plataforma que desempenhasse o gerenciamento de contatos e vendas com cada cliente de uma empresa. Desta forma, através do sistema seria possível desempenhar a organização, monitoramento e supervisão do processo de comunicação com clientes, além da gestão de pipelines.</p>
+<p align="justify">No terceiro semestre, a empresa parceira foi a <b><i>Ionic Health</b></i>. O objetivo do projeto consistia em desenvolver uma plataforma que desempenhasse o gerenciamento de contatos e vendas com cada cliente de uma empresa. Desta forma, através do sistema seria possível desempenhar a organização, monitoramento e supervisão do processo de comunicação com clientes, além da gestão de pipelines.</p>
 
 ## **Sobre a Empresa**
 
-<p align="justify">A Ionic Health é uma empresa especializada em inovação e transformação digital para a saúde.</p>
+<p align="justify">A <b><i>Ionic Health</b></i> é uma empresa especializada em inovação e transformação digital para a saúde. Outrora, conhecida como NESS Technology, em 1991, a empresa proveio com foco na inovação e transformação, havendo como objetivo a entrega de resultados com rapidez e segurança. Da mesma maneira que o mundo e a tecnologia, ao decorrer dos anos, a empresa similarmente passou por constantes transformações. Por volta de 2017, suas três principais verticais de operação: saúde, jurídica e segurança começaram a seguir suas próprias trajetórias. Depois da realização de um spin off em 2019, instituiu-se a empresa NESS Health, que entra na discussão da inovação e transformação digital no campo da medicina diagnóstica, trazendo em sua companhia o desejo de contribuir para a melhoria da saúde e oferecer maior eficiência à Jornada Digital do Paciente.</p>
 
 ## **Tecnologias Utilizadas**
 
