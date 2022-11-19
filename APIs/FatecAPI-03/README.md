@@ -7,7 +7,11 @@
 
 ## **Sobre o Projeto**
 
-<p align="justify">No terceiro semestre, a empresa parceira foi a Ionic Health. A Ionic Health é uma empresa especializada em inovação e transformação digital para a saúde. O objetivo do projeto consistia em desenvolver uma plataforma que desempenhasse o gerenciamento de contatos e vendas com cada cliente de uma empresa. Desta forma, através do sistema seria possível desempenhar a organização, monitoramento e supervisão do processo de comunicação com clientes, além da gestão de pipelines.</p>
+<p align="justify">No terceiro semestre, a empresa parceira foi a Ionic Health. O objetivo do projeto consistia em desenvolver uma plataforma que desempenhasse o gerenciamento de contatos e vendas com cada cliente de uma empresa. Desta forma, através do sistema seria possível desempenhar a organização, monitoramento e supervisão do processo de comunicação com clientes, além da gestão de pipelines.</p>
+
+## **Sobre a Empresa**
+
+<p align="justify">A Ionic Health é uma empresa especializada em inovação e transformação digital para a saúde.</p>
 
 ## **Tecnologias Utilizadas**
 

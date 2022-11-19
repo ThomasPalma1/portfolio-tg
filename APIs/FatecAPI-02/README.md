@@ -9,6 +9,10 @@
 
 <p align="justify">O problema pelo qual passava a empresa parceira, <b>GSW</b>, era de que não havia uma plataforma centralizada para que os projetos da empresa fossem administrados internamente. Sendo assim, a minha equipe propôs o desenvolvimento de um dashboard para possibilitar a realização de uma ampla análise dos dados de cada um dos projetos em andamento, bem como conduzir e auxiliar os desenvolvedores responsáveis. Dessa forma, nosso projeto viabilizou a visualização de tudo o que estaria acontecendo nos projetos em aberto dentro da empresa. Sendo assim, a difusão das informações tornou-se mais rápida e eficiente.</p>
 
+## **Sobre a Empresa**
+
+<p align="justify">A empresa <b>GSW</b> é especialista no desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação, com ênfase em gestão empresarial, gestão tributária, gestão de relacionamento com o cliente e operações em comércio exterior. Dispondo de 25 anos de experiência no âmbito da tecnologia e em projetos globais de TI, com mais de 400 colaboradores espalhados por 6 unidades, a <b>GSW</b> proporciona um portfólio amplo e construído através de sólidas alianças com empresas de soluções globais na área da Tecnologia da Informação, como Thomson Reuters, <i>SAP, Microsoft, IBM, Oracle e Salesforce</i>. A <b>GSW</b> detém de excelência para atender todas as necessidades de seus clientes, desde <i>desenvolvimento de software</i>, implantação de sistema integrado de gestão empresarial e sistemas satélites, até alocação de profissionais técnicos e funcionais.</p>
+
 ## **Tecnologias Utilizadas**
 
 <table>
@@ -50,7 +54,7 @@
 
 O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu segundo semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
 
-  1.  **CSS** &#8594; Sei fazer com autonomia;
+  1.  **CSS** &#8594; Sei fazer com auxílio;
   2.  **Google Charts** &#8594; Sei fazer com auxílio;
   3.  **HTML** &#8594; Sei fazer com autonomia;
   4.  **JavaScript** &#8594; Sei fazer com autonomia;
