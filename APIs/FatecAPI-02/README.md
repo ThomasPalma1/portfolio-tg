@@ -1,8 +1,8 @@
-<h1 align="center"><b>Pantion <a href="https://github.com/ThomasPalma1/FatecAPI-02"><img src="/docs/external-link.png"  width="19" height="19"></a>
+<h1 align="center"><b>Pantion <a href="https://github.com/ThomasPalma1/FatecAPI-02"><img src="/docs/assets/external-link.png"  width="19" height="19"></a>
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/circle.svg" width="150" height="150">
+   <img src="/docs/assets/circle.svg" width="150" height="150">
 </p>
 
 ## **Sobre o Projeto**
@@ -108,6 +108,6 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
    </tr>
 </table>
 
-<h2 align="center">Vídeo da aplicação em funcionamento <img src="/docs/youtube-icon.svg"  width="19" height="19"></h1>
+<h2 align="center">Vídeo da aplicação em funcionamento <img src="/docs/assets/youtube-icon.svg"  width="19" height="19"></h1>
 
 <p align="center">Caso possua interesse em assistir o vídeo do projeto na íntegra, basta clicar <a href="https://youtu.be/jk3iHov3_ak">aqui</a>!

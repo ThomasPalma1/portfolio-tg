@@ -1,8 +1,8 @@
-<h1 align="center"><b>Ion-X <a href="https://github.com/ThomasPalma1/FatecAPI-03"><img src="/docs/external-link.png"  width="19" height="19"></a>
+<h1 align="center"><b>Ion-X <a href="https://github.com/ThomasPalma1/FatecAPI-03"><img src="/docs/assets/external-link.png"  width="19" height="19"></a>
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/ionx.svg" width="150" height="150">
+   <img src="/docs/assets/ionx.svg" width="150" height="150">
 </p>
 
 ## **Sobre o Projeto**
@@ -103,6 +103,6 @@ O Ion-X foi desenvolvido durante o **segundo semestre** de **2021**, no meu terc
    </tr>
 </table>
 
-<h2 align="center">Vídeo da aplicação em funcionamento <img src="/docs/youtube-icon.svg"  width="19" height="19"></h2>
+<h2 align="center">Vídeo da aplicação em funcionamento <img src="/docs/assets/youtube-icon.svg"  width="19" height="19"></h2>
 
 <p align="center">Caso possua interesse em assistir o vídeo do projeto na íntegra, basta clicar <a href="https://youtu.be/Ocy-cQKJlPc">aqui</a>!

@@ -1,4 +1,4 @@
-<h1 align="center"><b>Mr. Academy <a href="https://github.com/ThomasPalma1/FatecPI-01"><img src="/docs/external-link.png"  width="19" height="19"></a>
+<h1 align="center"><b>Mr. Academy <a href="https://github.com/ThomasPalma1/FatecPI-01"><img src="/docs/assets/external-link.png"  width="19" height="19"></a>
 </h1></b>
 
 <p align="center"> 
@@ -66,6 +66,6 @@ O Mr. Academy foi desenvolvido durante o **segundo semestre** de **2020**, no me
 
 <h1 align="center"><img src="/docs/FatecAPI-01/final-video_api01.gif" width="640" height="360"></h1>
 
-<h2 align="center">Vídeo da aplicação em funcionamento <img src="/docs/youtube-icon.svg"  width="19" height="19"></h2>
+<h2 align="center">Vídeo da aplicação em funcionamento <img src="/docs/assets/youtube-icon.svg"  width="19" height="19"></h2>
 
 <p align="center">Caso possua interesse em assistir o vídeo do projeto na íntegra, basta clicar <a href="https://youtu.be/dpJSavXZcFk">aqui</a>!
