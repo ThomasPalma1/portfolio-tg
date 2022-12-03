@@ -1,7 +1,7 @@
 <h1 align="center"><b>Thomas dos Santos Palma</h1></b>
 
 <p align="center"> 
-   <img src="./docs/profile-picture.png" width="150" height="150">
+   <img src="./docs/assets/profile-picture.png" width="150" height="150">
 </p>
 
 ## **Introdução**
@@ -134,6 +134,6 @@ Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologi
 * **Comunicação**
    - Quando exercemos a comunicação de forma limpa e adequada, tudo encaminha-se para bons resultados. Durante os projetos sempre tentei manter uma boa comunicação com todos os membros da equipe, sempre dando **feedback's** do meu progresso e expressando o meu ponto de vista de forma construtiva para a qualidade do projeto. 
 
-## **Contatos** <img src="./docs/github-icon.png"  width="19" height="19"> <img src="./docs/linkedin-icon.png"  width="19" height="19">
+## **Contatos** <img src="./docs/assets/github-icon.png"  width="19" height="19"> <img src="./docs/assets/linkedin-icon.png"  width="19" height="19">
 * Para visualizar meus projetos acadêmicos e pessoais, minhas interações e contribuições em repositórios, veja o meu [GitHub](https://github.com/ThomasPalma1)!
 * Caso se interesse em visualizar informações pertinentes à minha carreira profissional, na área da tecnologia, acesse o meu [LinkedIn](https://www.linkedin.com/in/thomas-palma-0764b81b3/)!
