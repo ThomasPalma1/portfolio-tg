@@ -62,8 +62,8 @@ Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologi
     </tr>
     <tr>
         <td align="center">CSS</td>
-        <td></td>
         <td align="center">:heavy_check_mark:</td>
+        <td align="center"></td>
         <td></td>
     </tr>
     <tr>

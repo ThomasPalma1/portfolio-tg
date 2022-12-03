@@ -50,7 +50,7 @@
 
 O Ion-X foi desenvolvido durante o **segundo semestre** de **2021**, no meu terceiro semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
 
-  1.  **CSS** &#8594; Sei fazer com autonomia;
+  1.  **CSS** &#8594; Sei fazer com auxílio;
   2.  **HTML** &#8594; Sei fazer com autonomia;
   3.  **Java** &#8594; Sei fazer com auxílio;
   4.  **PostgreSQL** &#8594; Sei fazer com autonomia;
