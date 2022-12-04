@@ -44,7 +44,7 @@
 
 ## **Contribuições Pessoais**
 
-<p align="justify">Fui membro da equipe de desenvolvimento. Do lado do servidor, apresentei competência para desenvolver a arquitetura do sistema, autenticação de usuários, hierarquia/nível de acesso dos usuários e envio de e-mails.</p>
+<p align="justify">Fui membro da equipe de desenvolvimento. Do lado do servidor, apresentei competência para desenvolver a arquitetura do sistema, estabelecendo as regras de negócio, criação de rotas e a construção do banco de dados manuseando o PostgreSQL. Utilizando a linguagem de programação Java em conjunto com o <b><i>Spring Framework</b></i>, desenvolvi a autenticação de usuários, hierarquia/nível de acesso dos usuários e envio de e-mails. </p>
 
 ## **Hard Skills**
 
