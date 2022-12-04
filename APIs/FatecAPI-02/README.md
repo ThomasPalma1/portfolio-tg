@@ -48,7 +48,7 @@
 
 ## **Contribuições Pessoais**
 
-<p align="justify">Neste segundo projeto, exerci novamente a posição de Scrum Master. Conforme realizado no primeiro projeto, auxiliei a equipe na eliminação de obstáculos e assegurei que todos os desenvolvedores do projeto caminhassem lado a lado com os princípios do desenvolvimento ágil. Da mesma forma, ajudei na constituição do back-end. Do lado do servidor, tive aptidão para desenvolver a arquitetura do sistema, envio de e-mail, criação de gráficos e tratamento dos dados recebidos para melhor exibição no cliente.</p>
+<p align="justify">Neste segundo projeto, exerci novamente a posição de Scrum Master. Conforme realizado no primeiro projeto, auxiliei a equipe na eliminação de obstáculos e assegurei que todos os desenvolvedores do projeto caminhassem lado a lado com os princípios do desenvolvimento ágil. Da mesma forma, ajudei na constituição do <b><i>back-end</i></b>. Do lado do servidor, utilizando NodeJS, tive aptidão para desenvolver as regras de negócio para cada serviço os quais me foram confiados. Consumido a biblioteca <b><i>Nodemailer</i></b> para o desenvolvimento do serviço que executa o envio de e-mail, que tem como intuito realizar o encaminhamento de e-mails para os contribuidores cadastrados nos projetos que estão em aberto. Estabelecendo conexão entre o serviço Google Charts e o banco de dados do projeto, foi possível gerar gráficos e métricas com o propósito de fornecer informações especificas sobre os projetos.</p>
 
 ## **Hard Skills**
 
