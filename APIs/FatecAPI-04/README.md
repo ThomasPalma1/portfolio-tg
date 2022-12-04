@@ -50,3 +50,42 @@
 <br>
 
 * **Relacionamento |** Foi o primeiro API desenvolvido após o retorno das aulas presenciais. Devido a isso, foi importante o desenvolvimento da amizade entre os integrantes para sentirem satisfação ao se ajuderem durante a implementação do aplicativo.
+
+## **Imagens da aplicação**
+
+<p align="justify">A seguir é possível visualizar as imagens da aplicação em seu estado final. Cada imagem possui abaixo a descrição do requisito retratado.</p>
+
+<table>
+   <tr>
+      <td width="455"><img src="/docs/FatecAPI-04/" width="450" height="250" /></td>
+      <td width="455"><img src="/docs/FatecAPI-04/" width="450" height="250" /></td>
+   </tr>
+   <tr>
+      <td align="center">Autenticação de Usuários.</td>
+      <td align="center">Registro de Usuários.</td>
+   </tr>
+   <tr>
+      <td><img src="/docs/FatecAPI-04/" width="450" height="250"/></td>
+      <td><img src="/docs/FatecAPI-04/" width="450" height="250" /></td>
+   </tr>
+   <tr>
+      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Explicação em desenvolvimento.</td>
+   </tr>
+   <tr>
+      <td><img src="/docs/FatecAPI-04/" width="450" height="250" /></td>
+      <td><img src="/docs/FatecAPI-04/" width="450" height="250" /></td>
+   </tr>
+   <tr>
+      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Explicação em desenvolvimento.</td>
+   </tr>
+   <tr>
+      <td><img src="/docs/FatecAPI-04/" width="450" height="250" /></td>
+      <td><img src="/docs/FatecAPI-04/" width="450" height="250"/></td>
+   </tr>
+   <tr>
+      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Explicação em desenvolvimento.</td>
+   </tr>
+</table>
