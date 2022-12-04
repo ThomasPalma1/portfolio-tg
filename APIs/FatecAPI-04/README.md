@@ -7,7 +7,7 @@
 
 ## **Sobre o Projeto**
 
-<p align="justify">O aplicativo <b>TecSoja</b>, [visa] auxiliar o agricultor em todas as demandas envolvendo tecnologia para uma melhor produção de soja, sendo o foco na análise e aumento da produtividade. A solução proposta é criar um aplicativo que viabiliza ao agricultor estimar sua produtividade a cada cultivo e produtividade total. além do mais, efetuar a comparação da produtividade e áreas plantadas nos demais municípios ao seu redor. O agricultor através do aplicativo, inclusive, poderá dispor de uma análise ampla de custos, clima e época ideal de colheita, tudo isso com base na geolocalização do seu cultivo. À vista disso, o aplicativo busca solidificar registros e informações focadas no cultivo e região do produtor.</p>
+<p align="justify">O aplicativo <b>TecSoja</b>, procura auxiliar o agricultor em todas as demandas envolvendo tecnologia para uma melhor produção de soja, sendo o foco na análise e aumento da produtividade. A solução proposta é criar um aplicativo que viabiliza ao agricultor estimar sua produtividade a cada cultivo e produtividade total. além do mais, efetuar a comparação da produtividade e áreas plantadas nos demais municípios ao seu redor. O agricultor através do aplicativo, inclusive, poderá dispor de uma análise ampla de custos, clima e época ideal de colheita, tudo isso com base na geolocalização do seu cultivo. À vista disso, o aplicativo busca solidificar registros e informações focadas no cultivo e região do produtor.</p>
 
 ## **Sobre a Empresa**
 
@@ -43,5 +43,10 @@
 </table>
 
 ## **Contribuições Pessoais**
-## **Hard Skills**
 ## **Soft Skills**
+
+* **Adaptabilidade |** O tema do projeto era totalmente desconhecido pela equipe. Portanto, fomos descobrindo os detalhes de cada funcionalidade um dia de cada vez, para que não ficássemos ansiosos quanto à aplicabilidade real do nosso software.
+
+<br>
+
+* **Relacionamento |** Foi o primeiro API desenvolvido após o retorno das aulas presenciais. Devido a isso, foi importante o desenvolvimento da amizade entre os integrantes para sentirem satisfação ao se ajuderem durante a implementação do aplicativo.
