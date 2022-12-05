@@ -7,11 +7,11 @@
 
 ## **Sobre o Projeto**
 
-<p align="justify"></p>
+<p align="justify">Desenvolver um aplicativo que, desta forma, permita aperfeiçoar o fluxo de atendimento das solicitações. O objetivo do Alô Cidadão é viabilizar um aplicativo de fácil manuseio, para receber as demandas de obras e manutenção. Assegurando uma solicitação mais detalhada e visual. A nossa proposta é permitir que o cidadão realize a solicitação de obras ou manutenção inserindo fotos, descrição, endereço ou utilizar a funcionalidade de geolocalização.</p>
 
 ## **Sobre a Empresa**
 
-<p align="justify"></p>
+<p align="justify">Neste quinto semestre não realizamos o projeto com uma empresa externa, mas sim com um cliente interno, que foi um dos nossos professores. O projeto proposto foi desenvolver um aplicativo móvel que permite o cidadão catalogar as demandas ou denuncias de obras e manutenção, favorecendo uma exigência com mais detalhes. Obras em andamento poderão ser consultadas para favorecer a locomoção do cidadãos.</p>
 
 ## **Tecnologias Utilizadas**
 
@@ -88,9 +88,9 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       </td>
    </tr>
    <tr>
-      <td align="center">.</td>
-      <td align="center">.</td>
-      <td align="center">.</td>
+      <td align="center">Autenticação de usuário.</td>
+      <td align="center">Registro de usuário.</td>
+      <td align="center">Tela inicial do aplicativo.</td>
    </tr>
    <tr>
       <td>
@@ -104,9 +104,9 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       </td>
    </tr>
    <tr>
-      <td align="center">.</td>
-      <td align="center">.</td>
-      <td align="center">.</td>
+      <td align="center">Tela que exibe as minhas ocorrências.</td>
+      <td align="center">Página que mostra detalhes sobre a ocorrência</td>
+      <td align="center">Primeira etapa do registro de ocorrência. Nesta tela é solicitado a inserção de imagem do problema.</td>
    </tr>
    <tr>
       <td>
@@ -120,9 +120,9 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       </td>
    </tr>
    <tr>
-      <td align="center">.</td>
-      <td align="center">.</td>
-      <td align="center">.</td>
+      <td align="center">Segunda etapa do registro de ocorrência. Nesta etapa o usuário precisa adicionar algumas informações sobre o problema.</td>
+      <td align="center">Terceira e ultima etapa do registo de ocorrência. Nesta tela o usuário pode utilizar a funcionalidade de geolocalização ou pode inserir o endereço manualmente. </td>
+      <td align="center">Página que mostra as obras em andamento e seus estados.</td>
    </tr>
    <tr>
       <td>
@@ -136,8 +136,8 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       </td>
    </tr>
    <tr>
-      <td align="center">.</td>
-      <td align="center">.</td>
-      <td align="center">.</td>
+      <td align="center">Tela inicial do usuário autenticado como administrador.</td>
+      <td align="center">Esta página exibe o histórico dos termos e condições, listando as alterações realizadas.</td>
+      <td align="center">Tela que permite atualizar os textos do termos e condições.</td>
    </tr>
 </table>
