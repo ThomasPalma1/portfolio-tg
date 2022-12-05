@@ -114,12 +114,4 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       <td align="center">.</td>
       <td align="center">.</td>
    </tr>
-   <tr>
-      <td><p align="center"><img src="/docs/FatecAPI-05/popup-that-shows-the-status-of-the-occurrence.png" width="150" height="300"/></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/screen-that-displays-my-personal-data.png" width="150" height="300" /></p></td>
-   </tr>
-   <tr>
-      <td align="center">.</td>
-      <td align="center">.</td>
-   </tr>
 </table>
