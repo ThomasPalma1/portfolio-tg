@@ -55,7 +55,7 @@
 O TecSoja foi desenvolvido durante o **segundo semestre** de **2022**, no meu quinto semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
 
   1.  **Flask** &#8594; Sei fazer com autonomia;
-  2.  **JavaScript** &#8594; Sei fazer com autonomia;
+  2.  **JavaScript** &#8594; Sei fazer com auxílio;
   3.  **MongoDB** &#8594; Sei fazer com autonomia;
   4.  **PostgreSQL** &#8594; Sei fazer com autonomia;
   5.  **Python** &#8594; Sei fazer com autonomia;
