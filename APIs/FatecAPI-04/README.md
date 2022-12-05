@@ -96,7 +96,7 @@
    <tr>
       <td align="center">Página que solicita informações sobre o cultivo.</td>
       <td align="center">Registro dos custos da fazenda.</td>
-      <td align="center">Tela de gráficos</td>
+      <td align="center">Tela de gráficos.</td>
    </tr>
    <tr>
       <td><p align="center"><img src="/docs/FatecAPI-04/screen-containing-the-productivity-chart.png" width="150" height="300"/></p></td>
@@ -105,7 +105,7 @@
    </tr>
    <tr>
       <td align="center">Gráfico que mostra dados sobre a produtividade.</td>
-      <td align="center">Gráfico que mostra dados sobre o clima</td>
-      <td align="center">Tela onde é realizado a alteração de e-mail</td>
+      <td align="center">Gráfico que mostra dados sobre o clima.</td>
+      <td align="center">Tela onde é realizado a alteração de e-mail.</td>
    </tr>
 </table>
