@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td align="center">Flask</td>
-        <td align="justify">Framework empregado para o desenvolvimento de rotas e serviços que compõem a implementação da regra de negócio no nosso servidor.</td>
+        <td align="justify">Framework consumido para o desenvolvimento de rotas e serviços que compõem a implementação da regra de negócio do servidor da aplicaçao.</td>
     </tr>
     <tr>
         <td align="center">JavaScript</td>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
         <td align="center">MongoDB</td>
-        <td align="left">Gerenciar e manipular dados do banco de dados.</td>
+        <td align="left">Banco de dados não relacional, utilizado para gerenciar e manipular imagens do banco de dados.</td>
     </tr>
     <tr>
         <td align="center">PostgreSQL</td>
