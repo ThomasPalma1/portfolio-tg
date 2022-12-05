@@ -2,7 +2,7 @@
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/assets/" width="150" height="150">
+   <img src="/docs/assets/tecsoja.svg" width="150" height="150">
 </p>
 
 ## **Sobre o Projeto**

@@ -2,7 +2,7 @@
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/assets/circle.svg" width="150" height="150">
+   <img src="/docs/assets/pantion.svg" width="150" height="150">
 </p>
 
 ## **Sobre o Projeto**
