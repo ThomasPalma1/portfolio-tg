@@ -87,11 +87,6 @@
       <td align="center">Explicação em desenvolvimento.</td>
    </tr>
    <tr>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
-   </tr>
-   <tr>
       <td><img src="/docs/FatecAPI-04/screen-for-entering-information-about-the-harvest-data.png" width="150" height="300" /></td>
       <td><img src="/docs/FatecAPI-04/screen-containing-cost-questions.png" width="150" height="300"/></td>
       <td><img src="/docs/FatecAPI-04/chart-screen.png" width="150" height="300" /></td>
