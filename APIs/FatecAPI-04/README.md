@@ -15,8 +15,6 @@
 
 ## **Tecnologias Utilizadas**
 
-<p align="justify">Fui membro da equipe de desenvolvimento. Neste projeto fiquei responsavel por desenvolver e integrar, utilizando o React Native, a visualização do mapa no aplicativo. No lado do servidor, desenvolvi o <b>CRUD (Create, Read, Update and Delete)</b> atinente ao talhão. Elaborei também a regra de negócio por volta da permissão do usuário sobre ele ceder a sua localização.</p>
-
 <table>
     <tr>
         <th>Tecnologias Utilizadas</th>
@@ -45,6 +43,8 @@
 </table>
 
 ## **Contribuições Pessoais**
+
+<p align="justify">Fui membro da equipe de desenvolvimento. Neste projeto fiquei responsavel por desenvolver e integrar, utilizando o React Native, a visualização do mapa no aplicativo. No lado do servidor, desenvolvi o <b>CRUD (Create, Read, Update and Delete)</b> atinente ao talhão. Elaborei também a regra de negócio por volta da permissão do usuário sobre ele ceder a sua localização.</p>
 
 ## **Hard Skills**
 

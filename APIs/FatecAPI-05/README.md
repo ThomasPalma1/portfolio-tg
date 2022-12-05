@@ -50,6 +50,8 @@
 
 ## **Contribuições Pessoais**
 
+<p align="justify">Participei do time de desenvolvimento. Do lado do servidor, demonstrei qualificação para criar a arquitetura do aplicativo, estabelecendo as regras de negócio, desenvolvendo serviços e a construção do banco de dados manipulando o MongoDB, banco de dados não relacional utilizado para o armazenamento de imagens das ocorrencias e o PostgreSQL, banco de dados relacionado, para os demais dados, como informações dos usuários. Utilizando a linguagem de programação Python em conjunto com o <b><i>Flask Framework</b></i>, desenvolvi os seguintes serviços: autenticação de usuário, envio de imagem e logging. Com referência a arquitetura, utilizando Docker e a <b><i>Amazon Web Services</b></i>, apliquei todos os serviços do projeto dentro de máquina virtuais, produzindo todo um ecossitema e possibilitando o acesso externo.</p>
+
 ## **Hard Skills**
 
 O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no meu quinto semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
