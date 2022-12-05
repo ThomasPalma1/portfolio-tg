@@ -75,9 +75,9 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
 
 <table align="center">
    <tr>
-      <td><p align="center"><img src="/docs/FatecAPI-05/1.png" width="150" height="300" /></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/2.png" width="150" height="300" /></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/3.png" width="150" height="300" /></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/login-screen.png" width="150" height="300" /></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/registration-screen.png" width="150" height="300" /></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/home-screen.png" width="150" height="300" /></p></td>
    </tr>
    <tr>
       <td align="center">.</td>
@@ -85,9 +85,9 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       <td align="center">.</td>
    </tr>
    <tr>
-      <td><p align="center"><img src="/docs/FatecAPI-05/4.png" width="150" height="300"/></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/5.png" width="150" height="300" /></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/6.png" width="150" height="300" /></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/screen-of-my-occurrences.png" width="150" height="300"/></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/screen-that-shows-the-occurrence.png" width="150" height="300" /></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/first-step-for-occurrence-registration.png" width="150" height="300" /></p></td>
    </tr>
    <tr>
       <td align="center">.</td>
@@ -95,9 +95,9 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       <td align="center">.</td>
    </tr>
    <tr>   
-      <td><p align="center"><img src="/docs/FatecAPI-05/7.png" width="150" height="300" /></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/8.png" width="150" height="300" /></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/9.png" width="150" height="300"/></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/second-step-for-occurrence-registration.png.png" width="150" height="300" /></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/third-step-for-occurrence-registration.png" width="150" height="300" /></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/works-in-progress-screen.png" width="150" height="300"/></p></td>
    </tr>
    <tr>
       <td align="center">.</td>
@@ -105,9 +105,9 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       <td align="center">.</td>
    </tr>
    <tr>
-      <td><p align="center"><img src="/docs/FatecAPI-05/10.png" width="150" height="300" /></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/11.png" width="150" height="300"/></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/12.png" width="150" height="300" /></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/admin-home-screen.png" width="150" height="300" /></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/screen-that-shows-the-history-of-terms-and-conditions.png" width="150" height="300"/></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/screen-that-allows-you-to-update-the-terms-and-conditions.png" width="150" height="300" /></p></td>
    </tr>
    <tr>
       <td align="center">.</td>
@@ -115,12 +115,10 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       <td align="center">.</td>
    </tr>
    <tr>
-      <td><p align="center"><img src="/docs/FatecAPI-05/13.png" width="150" height="300"/></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/14.png" width="150" height="300" /></p></td>
-      <td><p align="center"><img src="/docs/FatecAPI-05/15.png" width="150" height="300"/></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/popup-that-shows-the-status-of-the-occurrence.png" width="150" height="300"/></p></td>
+      <td><p align="center"><img src="/docs/FatecAPI-05/screen-that-displays-my-personal-data.png" width="150" height="300" /></p></td>
    </tr>
    <tr>
-      <td align="center">.</td>
       <td align="center">.</td>
       <td align="center">.</td>
    </tr>
