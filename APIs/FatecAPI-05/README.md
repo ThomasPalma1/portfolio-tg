@@ -49,6 +49,18 @@
 </table>
 
 ## **Contribuições Pessoais**
+
+## **Hard Skills**
+
+O TecSoja foi desenvolvido durante o **segundo semestre** de **2022**, no meu quinto semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
+
+  1.  **Flask** &#8594; Sei fazer com autonomia;
+  2.  **JavaScript** &#8594; Sei fazer com autonomia;
+  3.  **MongoDB** &#8594; Sei fazer com autonomia;
+  4.  **PostgreSQL** &#8594; Sei fazer com autonomia;
+  5.  **Python** &#8594; Sei fazer com autonomia;
+  6.  **React Native** &#8594; Sei fazer com auxílio.
+
 ## **Soft Skills**
 
 * **Futurista |** Desenvolvi e adaptei os serviços do back-end do aplicativo visando o seu deploy em uma instância da AWS, para que ele possa ser utilizado de qualquer lugar.

@@ -57,7 +57,7 @@ O Pantion foi desenvolvido durante o **primeiro semestre** de **2021**, no meu s
   1.  **CSS** &#8594; Sei fazer com auxílio;
   2.  **Google Charts** &#8594; Sei fazer com auxílio;
   3.  **HTML** &#8594; Sei fazer com autonomia;
-  4.  **JavaScript** &#8594; Sei fazer com autonomia;
+  4.  **JavaScript** &#8594; Sei fazer com auxílio;
   5.  **NodeJS** &#8594; Sei fazer com auxílio;
   6.  **PostgreSQL** &#8594; Sei fazer com autonomia.
 
