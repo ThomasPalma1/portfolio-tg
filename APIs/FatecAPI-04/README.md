@@ -55,63 +55,59 @@
 
 <p align="justify">A seguir é possível visualizar as imagens da aplicação em seu estado final. Cada imagem possui abaixo a descrição do requisito retratado.</p>
 
-<table>
+<table align="center">
    <tr>
       <td width="455"><img src="/docs/FatecAPI-04/home-screen.png" width="150" height="300" /></td>
-   </tr>
-   <tr>
       <td width="455"><img src="/docs/FatecAPI-04/registration-screen.png" width="150" height="300" /></td>
       <td width="455"><img src="/docs/FatecAPI-04/login-screen.png" width="150" height="300" /></td>
    </tr>
    <tr>
+      <td align="center">Tela inicial.</td>
       <td align="center">Autenticação de Usuários.</td>
       <td align="center">Registro de Usuários.</td>
    </tr>
    <tr>
       <td><img src="/docs/FatecAPI-04/map-screen.png" width="150" height="300"/></td>
       <td><img src="/docs/FatecAPI-04/farm-registration-screen.png" width="150" height="300" /></td>
-   </tr>
-   <tr>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
-   </tr>
-   <tr>
       <td><img src="/docs/FatecAPI-04/field-registration-screen.png" width="150" height="300" /></td>
+   </tr>
+   <tr>
+      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Explicação em desenvolvimento.</td>
+   </tr>
+   <tr>   
       <td><img src="/docs/FatecAPI-04/harvest-information-entry-screen.png" width="150" height="300" /></td>
-   </tr>
-   <tr>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
-   </tr>
-   <tr>
       <td><img src="/docs/FatecAPI-04/productivity-information-entry-screen.png" width="150" height="300" /></td>
       <td><img src="/docs/FatecAPI-04/sample-screen.png" width="150" height="300"/></td>
    </tr>
    <tr>
       <td align="center">Explicação em desenvolvimento.</td>
       <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Explicação em desenvolvimento.</td>
+   </tr>
+   <tr>
+      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Explicação em desenvolvimento.</td>
    </tr>
    <tr>
       <td><img src="/docs/FatecAPI-04/screen-for-entering-information-about-the-harvest-data.png" width="150" height="300" /></td>
       <td><img src="/docs/FatecAPI-04/screen-containing-cost-questions.png" width="150" height="300"/></td>
-   </tr>
-   <tr>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
-   </tr>
-   <tr>
       <td><img src="/docs/FatecAPI-04/chart-screen.png" width="150" height="300" /></td>
+   </tr>
+   <tr>
+      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Explicação em desenvolvimento.</td>
+   </tr>
+   <tr>
       <td><img src="/docs/FatecAPI-04/screen-containing-the-productivity-chart.png" width="150" height="300"/></td>
-   </tr>
-   <tr>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
-   </tr>
-   <tr>
       <td><img src="/docs/FatecAPI-04/screen-containing-the-weather-graph.png" width="150" height="300" /></td>
       <td><img src="/docs/FatecAPI-04/email-change-screen.png" width="150" height="300"/></td>
    </tr>
    <tr>
+      <td align="center">Explicação em desenvolvimento.</td>
       <td align="center">Explicação em desenvolvimento.</td>
       <td align="center">Explicação em desenvolvimento.</td>
    </tr>
