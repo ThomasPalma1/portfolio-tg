@@ -52,7 +52,7 @@
 
 ## **Hard Skills**
 
-O TecSoja foi desenvolvido durante o **segundo semestre** de **2022**, no meu quinto semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
+O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no meu quinto semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
 
   1.  **Flask** &#8594; Sei fazer com autonomia;
   2.  **JavaScript** &#8594; Sei fazer com auxílio;

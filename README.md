@@ -39,7 +39,7 @@ A seguir há uma breve descrição de cada projeto desenvolvido, nos quais eu er
    4. [TecSoja](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-04): Aplicação Móvel para efetuar a consolidação de dados e informações sobre o cultivo da soja, viabilizando ao agricultor uma percepção absoluta da produtividade a cada cultivo e produtividade total, além de possibilitar a comparação da produtividade e áreas plantadas nos municípios.
 
 
-   5. [Alô Cidadão](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-05): Em desenvolvimento.
+   5. [Alô Cidadão](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-05): Aplicação Móvel criada utilizando de dados públicos, com o propósito de auxiliar a secretaria de obras e serviço público.
 
 
  ## **Carreira Profissional**
