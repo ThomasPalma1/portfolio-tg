@@ -72,9 +72,9 @@
       <td><p align="center"><img src="/docs/FatecAPI-04/field-registration-screen.png" width="150" height="300" /></p></td>
    </tr>
    <tr>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Mapa onde o usuário consegue definir áreas para o seu plantio.</td>
+      <td align="center">Registro de fazenda.</td>
+      <td align="center">Registro de talhões.</td>
    </tr>
    <tr>   
       <td><p align="center"><img src="/docs/FatecAPI-04/harvest-information-entry-screen.png" width="150" height="300" /></p></td>
@@ -82,9 +82,9 @@
       <td><p align="center"><img src="/docs/FatecAPI-04/sample-screen.png" width="150" height="300"/></p></td>
    </tr>
    <tr>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Adição de informações sobre a colheita.</td>
+      <td align="center">Inclusão de dados da produtividade.</td>
+      <td align="center">Inserção de informações sobre as amostras recolhidas.</td>
    </tr>
    <tr>
       <td><p align="center"><img src="/docs/FatecAPI-04/screen-for-entering-information-about-the-harvest-data.png" width="150" height="300" /></p></td>
@@ -92,9 +92,9 @@
       <td><p align="center"><img src="/docs/FatecAPI-04/chart-screen.png" width="150" height="300" /></p></td>
    </tr>
    <tr>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Página que solicita informações sobre o cultivo.</td>
+      <td align="center">Registro dos custos da fazenda.</td>
+      <td align="center">Tela de gráficos</td>
    </tr>
    <tr>
       <td><p align="center"><img src="/docs/FatecAPI-04/screen-containing-the-productivity-chart.png" width="150" height="300"/></p></td>
@@ -102,8 +102,8 @@
       <td><p align="center"><img src="/docs/FatecAPI-04/email-change-screen.png" width="150" height="300"/></p></td>
    </tr>
    <tr>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
-      <td align="center">Explicação em desenvolvimento.</td>
+      <td align="center">Gráfico que mostra dados sobre a produtividade.</td>
+      <td align="center">Gráfico que mostra dados sobre o clima</td>
+      <td align="center">Tela onde é realizado a alteração de e-mail</td>
    </tr>
 </table>
