@@ -23,6 +23,14 @@
         <th>Finalidade</th>
     </tr>
     <tr>
+        <td align="center">Amazon Web Services</td>
+        <td align="justify">Serviços de computação em nuvem, utilizado para o <i><b>upload</b></i> dos serviços desenvolvidos.</td>
+    </tr>
+        <tr>
+        <td align="center">Docker</td>
+        <td align="justify">Plataforma utilizada para a criação e administração de ambientes isolados.</td>
+    </tr>
+        <tr>
         <td align="center">Flask</td>
         <td align="justify">Framework consumido para o desenvolvimento de rotas e serviços que compõem a implementação da regra de negócio do servidor da aplicaçao.</td>
     </tr>
@@ -56,12 +64,14 @@
 
 O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no meu quinto semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
 
-  1.  **Flask** &#8594; Sei fazer com autonomia;
-  2.  **JavaScript** &#8594; Sei fazer com auxílio;
-  3.  **MongoDB** &#8594; Sei fazer com autonomia;
-  4.  **PostgreSQL** &#8594; Sei fazer com autonomia;
-  5.  **Python** &#8594; Sei fazer com autonomia;
-  6.  **React Native** &#8594; Sei fazer com auxílio.
+  1.  **Amazon Web Services** &#8594; Sei fazer com autonomia;
+  2.  **Docker** &#8594; Sei fazer com autonomia;
+  3.  **Flask** &#8594; Sei fazer com autonomia;
+  4.  **JavaScript** &#8594; Sei fazer com auxílio;
+  5.  **MongoDB** &#8594; Sei fazer com autonomia;
+  6.  **PostgreSQL** &#8594; Sei fazer com autonomia;
+  7.  **Python** &#8594; Sei fazer com autonomia;
+  8.  **React Native** &#8594; Sei fazer com auxílio.
 
 ## **Soft Skills**
 
