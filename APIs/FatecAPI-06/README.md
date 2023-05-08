@@ -81,11 +81,11 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
 
 ## **Soft Skills**
 
-* **Soft Skills |** Text.
+* **Estudioso |** Para a implementação da inteligência artificial e do serviço de raspagem de dados, foi necessário pesquisar bastante e aprender sobre como este processo era feito, em ambas as partes. Sendo assim, constantemente estudei e implementei melhorias no código-fonte do projeto.
 
 <br>
 
-* **Soft Skills |** Text.
+* **Adaptabilidade |** No início do projeto, a equipe desconhecia completamente o tema. Portanto, como uma equipe, exploramos gradualmente todos os recursos possíveis para evitar quaisquer problemas em relação à viabilidade prática do software.
 
 ## **Imagens da aplicação**
 
@@ -94,19 +94,19 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
 <table align="center">
    <tr>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/tariff-screen.png" width="500" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/tariff-screen.png" width="500" height="250" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/dashboard-containing-tariffs.png" width="500" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/dashboard-containing-tariffs.png" width="500" height="250" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/dashboard-that-displays-specific-data.png" width="500" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/dashboard-that-displays-specific-data.png" width="500" height="250" /></p>
       </td>
    </tr>
    <tr>
-      <td align="center">Text.</td>
-      <td align="center">Text.</td>
-      <td align="center">Text.</td>
+      <td align="center">Tela que lista todas as tarifas de todos os serviços baseando-se em instituições. Possui como parâmetro pessoa física ou jurídica.</td>
+      <td align="center">Gráfico de tarifas. Exibe informações sobre menores e maiores tarifas, filtrando pelo tipo de serviço e tipo de grupo, a qual a instituição pertence.</td>
+      <td align="center">Painel de tarifas. Através desta tela é possível visualizar uma determinada informação relacionada a uma tarifa ou instituição se baseando no filtro aplicado. </td>
    </tr>
    <!-- <tr>
       <td>
