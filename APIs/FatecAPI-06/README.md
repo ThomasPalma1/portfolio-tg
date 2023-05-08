@@ -2,7 +2,7 @@
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/assets/moneymind.svg" width="150" height="150">
+   <img src="/docs/assets/moneymind.svg" width="250" height="250">
 </p>
 
 ## **Sobre o Projeto**
@@ -32,7 +32,7 @@
     </tr>
         <tr>
         <td align="center">MySQL</td>
-        <td align="justify"></td>
+        <td align="justify">Gerenciar e manipular dados do banco de dados.</td>
     </tr>
     <tr>
         <td align="center">Python</td>
@@ -55,7 +55,7 @@
         <td align="left">Linguagem de programação utilizada no front-end para auxiliar no desenvolvimento de aplicações web de larga escala.</td>  
     </tr>
     <tr>
-        <td align="center">Vue.js</td>
+        <td align="center">Vue</td>
         <td align="left">Framework baseado em JavaScript, que possibilita desenvolver interfaces de usuário e aplicativos de página única.</td>  
     </tr> 
 
@@ -81,11 +81,11 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
 
 ## **Soft Skills**
 
-* **Futurista |** Desenvolvi e adaptei os serviços do back-end do aplicativo visando o seu deploy em uma instância da AWS, para que ele possa ser utilizado de qualquer lugar.
+* **Soft Skills |** Text.
 
 <br>
 
-* **Realização |** Diariamente me vi comprometido a desenvolver as especificações do aplicativo e, em paralelo, configurar da melhor forma o deploy através na AWS utilizando o Docker.
+* **Soft Skills |** Text.
 
 ## **Imagens da aplicação**
 
@@ -94,66 +94,66 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
 <table align="center">
    <tr>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/login-screen.png" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/registration-screen.png" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/home-screen.png" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
       </td>
    </tr>
    <tr>
-      <td align="center">Autenticação de usuário.</td>
-      <td align="center">Registro de usuário.</td>
-      <td align="center">Tela inicial do aplicativo.</td>
+      <td align="center">Text.</td>
+      <td align="center">Text.</td>
+      <td align="center">Text.</td>
    </tr>
    <tr>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/screen-of-my-occurrences.png" width="150" height="300"/></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300"/></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/screen-that-shows-the-occurrence.png" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/first-step-for-occurrence-registration.png" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
       </td>
    </tr>
    <tr>
-      <td align="center">Tela que exibe as minhas ocorrências.</td>
-      <td align="center">Página que mostra detalhes sobre a ocorrência</td>
-      <td align="center">Primeira etapa do registro de ocorrência. Nesta tela é solicitado a inserção de imagem do problema.</td>
+      <td align="center">Text.</td>
+      <td align="center">Text.</td>
+      <td align="center">Text.</td>
    </tr>
    <tr>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/second-step-for-occurrence-registration.png.png" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/third-step-for-occurrence-registration.png" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/works-in-progress-screen.png" width="150" height="300"/></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300"/></p>
       </td>
    </tr>
    <tr>
-      <td align="center">Segunda etapa do registro de ocorrência. Nesta etapa o usuário precisa adicionar algumas informações sobre o problema.</td>
-      <td align="center">Terceira e ultima etapa do registo de ocorrência. Nesta tela o usuário pode utilizar a funcionalidade de geolocalização ou pode inserir o endereço manualmente. </td>
-      <td align="center">Página que mostra as obras em andamento e seus estados.</td>
+      <td align="center">Text.</td>
+      <td align="center">Text. </td>
+      <td align="center">Text.</td>
    </tr>
    <tr>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/admin-home-screen.png" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/screen-that-shows-the-history-of-terms-and-conditions.png" width="150" height="300"/></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300"/></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-05/screen-that-allows-you-to-update-the-terms-and-conditions.png" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
       </td>
    </tr>
    <tr>
-      <td align="center">Tela inicial do usuário autenticado como administrador.</td>
-      <td align="center">Esta página exibe o histórico dos termos e condições, listando as alterações realizadas.</td>
-      <td align="center">Tela que permite atualizar os textos do termos e condições.</td>
+      <td align="center">Text.</td>
+      <td align="center">Text.</td>
+      <td align="center">Text.</td>
    </tr>
 </table>
