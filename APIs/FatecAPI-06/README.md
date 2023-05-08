@@ -1,4 +1,4 @@
-<h1 align="center"><b>MoneyMind <a href="https://github.com/ThomasPalma1/FatecAPI-05"><img src="/docs/assets/external-link.png"  width="19" height="19"></a>
+<h1 align="center"><b>MoneyMind <a href="https://github.com/Barbara-BB/FatecAPI-06"><img src="/docs/assets/external-link.png"  width="19" height="19"></a>
 </h1></b>
 
 <p align="center"> 
@@ -36,11 +36,11 @@
     </tr>
     <tr>
         <td align="center">Python</td>
-        <td align="left">Usado para o desenvolvimento back-end do</td>
+        <td align="left">Usado no back-end para criar e executar raspagem de dados.</td>
     </tr>
     <tr>
         <td align="center">Scikit-learn</td>
-        <td align="left">Scikit-learn é uma biblioteca de aprendizado de máquina de código aberto para a linguagem de programação Python, usada na IA para aprendizado de máquina.</td>
+        <td align="left">Biblioteca de código aberto para a linguagem de programação Python, usada no desenvolvimento da Inteligência Artificial do projeto.</td>
     </tr>
     <tr>
         <td align="center">Spring Boot</td>
@@ -48,7 +48,7 @@
     </tr>
     <tr>
         <td align="center">TensorFlow</td>
-        <td align="left">Biblioteca de código aberto compatível com Python para computação numérica, usada na IA para aprendizado de máquina.</td>
+        <td align="left">Biblioteca de código aberto compatível com Python para computação numérica.</td>
     </tr>
     <tr>
         <td align="center">TypeScript</td>
@@ -56,7 +56,7 @@
     </tr>
     <tr>
         <td align="center">Vue</td>
-        <td align="left">Framework baseado em JavaScript, que possibilita desenvolver interfaces de usuário e aplicativos de página única.</td>  
+        <td align="left">Framework baseado em JavaScript, que possibilita criar interfaces e aplicativos de página única.</td>  
     </tr> 
 
 </table>
@@ -94,13 +94,13 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
 <table align="center">
    <tr>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/tariff-screen.png" width="150" height="300" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/dashboard-containing-tariffs.png" width="150" height="300" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/dashboard-that-displays-specific-data.png" width="150" height="300" /></p>
       </td>
    </tr>
    <tr>
@@ -108,7 +108,7 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
       <td align="center">Text.</td>
       <td align="center">Text.</td>
    </tr>
-   <tr>
+   <!-- <tr>
       <td>
          <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300"/></p>
       </td>
@@ -155,5 +155,5 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
       <td align="center">Text.</td>
       <td align="center">Text.</td>
       <td align="center">Text.</td>
-   </tr>
+   </tr> -->
 </table>
