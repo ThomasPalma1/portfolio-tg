@@ -12,13 +12,13 @@
 
 ## **Formação Acadêmica**
 
- > **Técnico em Desenvolvimento de Sistemas | ETEC Machado de Assis – Caçapava, SP. Conclusão: 2019.**
+ > **Técnico em Desenvolvimento de Sistemas | ETEC Machado de Assis – Caçapava, São Paulo. Conclusão: 2019.**
 
 
  <p align="justify">Durante a trajetória do meu curso técnico em Desenvolvimento de Sistemas, consegui aprimorar minhas Hard Skills. Tive contato com as linguagens de programação Java, PHP e Python. Aprendi também Arduino, Bootstrap, CSS, HTML e SQL. Ao final do curso, precisei desenvolver, em equipe, um Trabalho de Conclusão de Curso (TCC). O projeto consistia em um sistema de gerenciamento para a administração de barbearias, no qual era possível manusear informações pessoais dos clientes, agendar um horário para atendimento, efetuar a compra e o pagamento de serviços e produtos. Como uma opção especial, adicionamos o gerenciamento de fidelidade do cliente.</p>
 
 
-> **Análise e Desenvolvimento de Sistemas | FATEC Prof. Jessen Vidal – São José dos Campos, SP. Previsão para conclusão: julho de 2023.**
+> **Análise e Desenvolvimento de Sistemas | FATEC Prof. Jessen Vidal – São José dos Campos, São Paulo. Previsão para conclusão: julho de 2023.**
 
 <p align="justify">Durante a minha trajetória no curso de Análise e Desenvolvimento de Sistemas, aprendi que é necessário ser persistente e autodidata. Desde o primeiro semestre, desenvolvemos <b>projetos multidisciplinares</b>, em equipe. A partir destes, utilizamos metodologias ágeis para a sua implementação. A descrição detalhada de cada um desses projetos encontra-se abaixo.</p>
 
@@ -110,15 +110,15 @@ Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologi
         <td align="center">:heavy_check_mark:</td>
     </tr>
     <tr>
-        <td align="center">MongoDB</td>
-        <td align="center">:heavy_check_mark:</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td align="center">Banco de dados relacional</td>
         <td></td>
         <td align="center">:heavy_check_mark:</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td align="center">Banco de dados não relacional</td>
+        <td align="center">:heavy_check_mark:</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
