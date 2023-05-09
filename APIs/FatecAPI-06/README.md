@@ -11,7 +11,7 @@
 
 ## **Sobre a Empresa**
 
-<p align="justify">A empresa deste projeto é um banco internacionalmente conhecido que não quer ser identificado por motivos de <i><b>compliance</i></b>. É um banco global com ampla experiência no setor financeiro. Reconhecido por sua competência e inovação, o banco oferece para a sociedade uma extensa quantidade de serviços financeiros com transparência e segurança com dados dos clientes. O JP Morgan ajuda a desenvolver ferramentas de comparação de preços on-line que utilizam dados financeiros abertos para fornecer uma experiência intuitiva e ajudar os clientes a tomar decisões financeiras./p>
+<p align="justify">A empresa deste projeto é um banco internacionalmente conhecido que não quer ser identificado por motivos de <i><b>compliance</i></b>. É um banco global com ampla experiência no setor financeiro. Reconhecido por sua competência e inovação, o banco oferece para a sociedade uma extensa quantidade de serviços financeiros com transparência e segurança com dados dos clientes. O JP Morgan ajuda a desenvolver ferramentas de comparação de preços on-line que utilizam dados financeiros abertos para fornecer uma experiência intuitiva e ajudar os clientes a tomar decisões financeiras. </p>
 
 ## **Tecnologias Utilizadas**
 
@@ -94,13 +94,13 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
 <table align="center">
    <tr>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/tariff-screen.png" width="1500"/></p>
+         <p align="center"><img src="/docs/FatecAPI-06/tariff-screen.png" width="4000"/></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/dashboard-containing-tariffs.png" width="1500"/></p>
+         <p align="center"><img src="/docs/FatecAPI-06/dashboard-containing-tariffs.png" width="4000"/></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/dashboard-that-displays-specific-data.png" width="1500"/></p>
+         <p align="center"><img src="/docs/FatecAPI-06/dashboard-that-displays-specific-data.png" width="4000"/></p>
       </td>
    </tr>
    <tr>
