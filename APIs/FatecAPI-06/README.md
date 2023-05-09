@@ -97,7 +97,7 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
          <p align="center"><img src="/docs/FatecAPI-06/tariff-screen.png" width="1080"/></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/dashboard-containing-tariffs.png" width="1080"/></p>
+         <p align="center"><img src="/docs/FatecAPI-06/dashboard-containing-tariffs.png" width="1080" /></p>
       </td>
       <td>
          <p align="center"><img src="/docs/FatecAPI-06/dashboard-that-displays-specific-data.png" width="1080"/></p>
