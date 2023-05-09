@@ -157,3 +157,9 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
       <td align="center">Text.</td>
    </tr> -->
 </table>
+
+## **GIF da aplicação**
+
+<p align="justify">A seguir é possível visualizar um GIF da aplicação em seu estado final.</p>
+
+<h1 align="center"><img src="/docs/FatecAPI-06/final-video_api06.gif" width="640" height="360"></h1>
