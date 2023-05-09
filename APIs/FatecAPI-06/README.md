@@ -63,7 +63,7 @@
 
 ## **Contribuições Pessoais**
 
-<p align="justify">.</p>
+<p align="justify">Ao longo deste projeto, saliento as minhas contribuições em três áreas principais. Virtualizei os serviços com o Docker, criei um <i><b>Web Scraper</i></b> e auxiliei a desenvolver uma inteligência artificial de recomendação. Eu também ajudei a estruturar o back-end do projeto, na sua totalidade.</p>
 
 ## **Hard Skills**
 
@@ -94,13 +94,13 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
 <table align="center">
    <tr>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/tariff-screen.png" width="1.280" height="719" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/tariff-screen.png" width="460" height="300" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/dashboard-containing-tariffs.png" width="1.280" height="719" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/dashboard-containing-tariffs.png" width="460" height="300" /></p>
       </td>
       <td>
-         <p align="center"><img src="/docs/FatecAPI-06/dashboard-that-displays-specific-data.png" width="1.280" height="719" /></p>
+         <p align="center"><img src="/docs/FatecAPI-06/dashboard-that-displays-specific-data.png" width="460" height="300" /></p>
       </td>
    </tr>
    <tr>
