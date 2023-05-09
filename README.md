@@ -22,7 +22,7 @@
 
 <p align="justify">Durante a minha trajetória no curso de Análise e Desenvolvimento de Sistemas, aprendi que é necessário ser persistente e autodidata. Desde o primeiro semestre, desenvolvemos <b>projetos multidisciplinares</b>, em equipe. A partir destes, utilizamos metodologias ágeis para a sua implementação. A descrição detalhada de cada um desses projetos encontra-se abaixo.</p>
 
-> **Curso de Inglês Internacional | British Study Centres - Inglaterra, Londres. Conclusão: Janeiro de 2023 até Fevereiro de 2023.**
+> **Curso de Inglês Internacional | British Study Centres – Londres, Inglaterra. Conclusão: Janeiro de 2023 até Fevereiro de 2023.**
 
 <p align="justify">No início de 2023 tive a oportunidade de fazer um intercâmbio de 4 semanas na Inglaterra, onde pude estudar e morar. Foi uma experiência muito enriquecedora, onde aprendi muitas coisas novas e conheci pessoas incríveis. Durante o intercâmbio, tive aulas de inglês com professores experientes e altamente qualificados, o que me permitiu aprimorar meu vocabulário e compreensão do idioma. Além disso, participei de atividades culturais, visitando museus, pontos turísticos e locais históricos, onde pude entender melhor a cultura inglesa e sua magnífica história. Conheci estudantes de diferentes países, por exemplo: Cazaquistão, Japão, Hong Kong e Malásia. O que me deu a oportunidade de fazer novos amigos e aprender sobre suas culturas e tradições. Porém, o intercâmbio foi uma experiência que jamais esquecerei, que me permitiu aprimorar meu inglês e conhecer uma cultura fascinante. Estou muito grato por ter tido esta oportunidade e espero ter a chance de voltar para a Inglaterra um dia.</p>
 
@@ -116,7 +116,7 @@ Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologi
         <td></td>
     </tr>
     <tr>
-        <td align="center">PostgreSQL</td>
+        <td align="center">Banco de dados relacional</td>
         <td></td>
         <td align="center">:heavy_check_mark:</td>
         <td></td>
