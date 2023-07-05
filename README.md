@@ -1,13 +1,13 @@
 <h1 align="center"><b>Thomas dos Santos Palma</h1></b>
 
 <p align="center"> 
-   <img src="./docs/assets/profile-picture.png" width="150" height="150">
+   <img src="./docs/assets/profile-picture.png" height="300">
 </p>
 
 ## **Introdução**
 
 
-<p align="justify">Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, formado pela Etec Machado de Assis, em Caçapava. Também sou graduado em Análise e Desenvolvimento de Sistemas pela Fatec Prof. Jessen Vidal, em São José dos Campos. Tenho grande interesse na área de DevOps e já estou me familiarizando com tecnologias relacionadas a esse campo para o desenvolvimento e gerenciamento de sistemas.</p>
+<p align="justify">Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, formado pela Etec Machado de Assis, em Caçapava. Também sou graduado em Análise e Desenvolvimento de Sistemas pela Fatec Prof. Jessen Vidal, em São José dos Campos. Tenho grande interesse na área de DevOps e desenvolvimento de software. Tenho um forte interesse em DevOps e no desenvolvimento de software, e estou constantemente aprimorando meu conhecimento em tecnologias relacionadas a essas áreas, buscando aprofundar minha expertise no desenvolvimento e gerenciamento de sistemas.</p>
 
 
 ## **Formação Acadêmica**
@@ -27,7 +27,7 @@
 <p align="justify">No início de 2023 tive a oportunidade de fazer um intercâmbio de 4 semanas na Inglaterra, onde pude estudar e morar. Foi uma experiência muito enriquecedora, onde aprendi muitas coisas novas e conheci pessoas incríveis. Durante o intercâmbio, tive aulas de inglês com professores experientes e altamente qualificados, o que me permitiu aprimorar meu vocabulário e compreensão do idioma. Além disso, participei de atividades culturais, visitando museus, pontos turísticos e locais históricos, onde pude entender melhor a cultura inglesa e sua magnífica história. Conheci estudantes de diferentes países, por exemplo: Cazaquistão, Japão, Hong Kong e Malásia. O que me deu a oportunidade de fazer novos amigos e aprender sobre suas culturas e tradições. Porém, o intercâmbio foi uma experiência que jamais esquecerei, que me permitiu aprimorar meu inglês e conhecer uma cultura fascinante. Estou muito grato por ter tido esta oportunidade e espero ter a chance de voltar para a Inglaterra um dia.</p>
 
 ## **Aprendizagem por Projetos Integrados**
-A seguir há uma breve descrição de cada projeto desenvolvido, nos quais eu era um integrante da equipe. Também, há um link dedicado para cada **projeto**:
+A seguir há uma breve descrição de cada projeto desenvolvido durante a faculdade, nos quais eu era um integrante da equipe. Também, há um link dedicado para cada **projeto**:
 
  - <h4><b>Desenvolvi, em equipe, os seguintes projetos:</h4></b>
 
