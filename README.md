@@ -7,7 +7,7 @@
 ## **Introdução**
 
 
-<p align="justify">Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, formado pela Etec Machado de Assis, em Caçapava. Também sou graduado em Análise e Desenvolvimento de Sistemas pela Fatec Prof. Jessen Vidal, em São José dos Campos. Tenho grande interesse na área de DevOps e desenvolvimento de software. Tenho um forte interesse em DevOps e no desenvolvimento de software, e estou constantemente aprimorando meu conhecimento em tecnologias relacionadas a essas áreas, buscando aprofundar minha expertise no desenvolvimento e gerenciamento de sistemas.</p>
+<p align="justify">Olá, meu nome é Thomas Palma. Sou técnico em Desenvolvimento de Sistemas, formado pela Etec Machado de Assis, em Caçapava. Também sou graduado em Análise e Desenvolvimento de Sistemas pela Fatec Prof. Jessen Vidal, em São José dos Campos. Tenho um forte interesse em DevOps e no desenvolvimento de software, e estou constantemente aprimorando meu conhecimento em tecnologias relacionadas a essas áreas, buscando aprofundar minha expertise no desenvolvimento e gerenciamento de sistemas.</p>
 
 
 ## **Formação Acadêmica**
@@ -50,7 +50,7 @@ A seguir há uma breve descrição de cada projeto desenvolvido durante a faculd
 
 
  ## **Carreira Profissional**
- <p align="justify">Sou um profissional com dois anos de experiência na área administrativa industrial. Atualmente, estou adquirindo conhecimento trabalhando no departamento de Desenvolvimento, como estagiário, em uma empresa localizada no parque tecnológico. A empresa em questão viabiliza soluções em mobilidade e gestão urbana.</p>
+ <p align="justify">Sou um profissional com dois anos de experiência na área administrativa industrial. Atualmente, trabalho como Programador Júnior I no departamento de Desenvolvimento de uma empresa localizada no Parque Tecnológico, em São José dos Campos, no Vale do Paraíba, estado de São Paulo. A empresa em questão viabiliza soluções em mobilidade e gestão urbana.</p>
 
 ## **Meus Principais Conhecimentos**
 Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologias: 

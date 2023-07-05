@@ -2,7 +2,7 @@
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/FatecAPI-05/alo-cidadao.png" width="150" height="150">
+   <img src="/docs/FatecAPI-05/alo-cidadao.svg" width="150" height="150">
 </p>
 
 ## **Sobre o Projeto**
