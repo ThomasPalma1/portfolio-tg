@@ -1,4 +1,4 @@
-<h1 align="center"><b>Alô Cidadão <a href="https://github.com/ThomasPalma1/FatecAPI-05"><img src="/docs/assets/external-link.png"  width="19" height="19"></a>
+<h1 align="center"><b>Alô Cidadão <a href="https://github.com/ThomasPalma1/FatecAPI-05"><img src="/docs/assets/external-link.svg"  width="19" height="19"></a>
 </h1></b>
 
 <p align="center"> 

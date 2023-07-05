@@ -1,8 +1,8 @@
-<h1 align="center"><b>Ion-X <a href="https://github.com/ThomasPalma1/FatecAPI-03"><img src="/docs/assets/external-link.png"  width="19" height="19"></a>
+<h1 align="center"><b>Ion-X <a href="https://github.com/ThomasPalma1/FatecAPI-03"><img src="/docs/assets/external-link.svg"  width="19" height="19"></a>
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/assets/ionx.svg" width="150" height="150">
+   <img src="/docs/FatecAPI-03/ionx.svg" width="150" height="150">
 </p>
 
 ## **Sobre o Projeto**

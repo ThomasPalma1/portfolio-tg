@@ -53,7 +53,7 @@ A seguir há uma breve descrição de cada projeto desenvolvido durante a faculd
  <p align="justify">Sou um profissional com dois anos de experiência na área administrativa industrial. Atualmente, estou adquirindo conhecimento trabalhando no departamento de Desenvolvimento, como estagiário, em uma empresa localizada no parque tecnológico. A empresa em questão viabiliza soluções em mobilidade e gestão urbana.</p>
 
 ## **Meus Principais Conhecimentos**
-"Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologias. Até a data da última atualização da tabela: 21/06/2023. 
+Com o passar dos semestres, desenvolvi as habilidades nas subsequentes tecnologias: 
 <table>
     <tr>
         <th align="center">Tecnologias</th>
@@ -147,6 +147,6 @@ A seguir há uma breve descrição de cada projeto desenvolvido durante a faculd
 * **Comunicação**
    - Quando exercemos a comunicação de forma limpa e adequada, tudo encaminha-se para bons resultados. Durante os projetos sempre tentei manter uma boa comunicação com todos os membros da equipe, sempre dando **feedback's** do meu progresso e expressando o meu ponto de vista de forma construtiva para a qualidade do projeto. 
 
-## **Contatos** <img src="./docs/assets/github-icon.png"  width="19" height="19"> <img src="./docs/assets/linkedin-icon.png"  width="19" height="19">
+## **Contatos** <img src="./docs/assets/github-icon.svg"  width="19" height="19"> <img src="./docs/assets/linkedin-icon.svg"  width="19" height="19">
 * Para visualizar meus projetos acadêmicos e pessoais, minhas interações e contribuições em repositórios, veja o meu [GitHub](https://github.com/ThomasPalma1)!
 * Caso se interesse em visualizar informações pertinentes à minha carreira profissional, na área da tecnologia, acesse o meu [LinkedIn](https://www.linkedin.com/in/thomas-palma-0764b81b3/)!

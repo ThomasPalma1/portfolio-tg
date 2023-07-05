@@ -1,8 +1,8 @@
-<h1 align="center"><b>MoneyMind <a href="https://github.com/Barbara-BB/FatecAPI-06"><img src="/docs/assets/external-link.png"  width="19" height="19"></a>
+<h1 align="center"><b>MoneyMind <a href="https://github.com/Barbara-BB/FatecAPI-06"><img src="/docs/assets/external-link.svg"  width="19" height="19"></a>
 </h1></b>
 
 <p align="center"> 
-   <img src="/docs/assets/moneymind.svg" width="250" height="250">
+   <img src="/docs/FatecAPI-06/moneymind.svg" width="250" height="250">
 </p>
 
 ## **Sobre o Projeto**
