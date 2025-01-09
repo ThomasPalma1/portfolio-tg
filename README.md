@@ -32,7 +32,7 @@
 ## **Academic projects**
 Below is a brief description of each project developed during college, in which I was a team member. Also, there is a dedicated link for each **project**:
 
- - <h4><b>Desenvolvi, em equipe, os seguintes projetos:</h4></b>
+ - <h4><b>As a team, I developed the following projects:</h4></b>
 
    1. [Mr. Academy](https://github.com/ThomasPalma1/portfolio-tg/tree/main/APIs/FatecAPI-01): E-commerce created with an emphasis on sales of educational materials for Systems Analysis students.
 
@@ -53,7 +53,7 @@ Below is a brief description of each project developed during college, in which 
 
 
  ## **Professional Career**
- <p align="justify">I am a professional with two years of experience in the administrative area. I worked for a Japanese industrial chemical products company. Currently, I work as a Jr. Software Developer I with an emphasis on back-end. The company in question provides mobility and urban management solutions for city halls. ⚠️</p> 
+ <p align="justify">I am a professional with two years of experience in the industrial administrative area. Currently, I work as a Jr. Software Developer with an emphasis on back-end and I mainly use Java, Python and their frameworks as main technologies. For database, a relational database is used which is PostgreSQL. The company in question provides mobility and urban management solutions for city halls. ⚠️</p> 
 
 ## **My Main Knowledge**
 As the semesters went by, I developed skills in the following technologies:
