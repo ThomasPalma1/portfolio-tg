@@ -9,7 +9,7 @@
 
 <p align="justify">The problem faced by the partner company, <b>GSW</b>, was that there was no centralized platform for managing the company's projects internally. Therefore, my team proposed the development of a dashboard to enable extensive data analysis of each of the ongoing projects, as well as to guide and assist the responsible developers. This way, our project made it possible to visualize everything that was happening in the open projects within the company. Therefore, the dissemination of information became faster and more efficient.</p>
 
-## **Sobre a Empresa**
+## **About the Company**
 
 <p align="justify">The company <b>GSW</b> specializes in the development and implementation of intelligent solutions in Information Technology, with an emphasis on business management, tax management, customer relationship management and foreign trade operations. With 25 years of experience in the field of technology and in global IT projects, with over 400 employees spread across 6 units, <b>GSW</b> provides a broad portfolio built through solid alliances with global solutions companies in the area of ​​Information Technology, such as Thomson Reuters, SAP, Microsoft, IBM, Oracle and Salesforce. <b>GSW</b> has excellence in meeting all the needs of its customers, from software development, implementation of an integrated business management system and satellite systems, to the allocation of technical and functional professionals.</p>
 

@@ -47,11 +47,11 @@
 
 Mr. Academy was developed during the **second semester** of **2020**, in my **first semester** at Fatec. I had the opportunity to learn and operate the following technologies:
 
-  5.  **PHP** &#8594; I can do it with help;
-  4.  **MySQL** &#8594; I can do it with help;
+  1.  **PHP** &#8594; I can do it with help;
+  2.  **MySQL** &#8594; I can do it with help;
   3.  **JavaScript** &#8594; I can do it with help;
-  3.  **HTML** &#8594; I know how to do it independently;
-  1.  **CSS** &#8594; I know how to do it independently.
+  4.  **HTML** &#8594; I know how to do it independently;
+  5.  **CSS** &#8594; I know how to do it independently.
 
 ## **Soft Skills**
 
