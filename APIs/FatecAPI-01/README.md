@@ -5,67 +5,68 @@
    <img src="/docs/FatecAPI-01/mr_academy.svg" width="150" height="150">
 </p>
 
-## **Sobre o Projeto**
+## **About the Project**
 
-<p align="justify">Tratando-se do primeiro semestre, não realizamos o projeto com uma empresa externa, mas sim com um cliente interno, que foi um dos nossos professores. O projeto proposto foi um e-commerce para vendas de materiais didáticos, que após a execução da compra, seria efetuada a disponibilização desses materiais adquiridos. O material disponibilizado, mediante ao pagamento possuía ênfase no curso de Ensino Superior de Análise de Sistemas e era referente às disciplinas de Matemática Discreta, Inglês, Português, Algoritmos de Programação, Laboratório de Hardware e Arquitetura e Organização de Computadores.</p>
+<p align="justify">In the first semester, we did not do the project with an external client, but with an internal client, who was one of our teachers. The proposed project was an E-Commerce for sales of teaching materials, which after the purchase was completed, would make these purchased materials available. The material made available, upon payment, had an emphasis on the Higher Education course in Systems Analysis and referred to the subjects of Discrete Mathematics, English, Portuguese, Programming Algorithms, Hardware Laboratory and Computer Architecture and Organization.</p>
 
-## **Tecnologias Utilizadas**
+## **Technologies Used**
 
 <table>
     <tr>
-        <th>Tecnologias Utilizadas</th>
-        <th>FInalidade</th>
-    </tr>
-    <tr>
-        <td align="center">CSS</td>
-        <td align="justify">Estilização dos componentes da interface.</td>
-    </tr>
-    <tr>
-        <td align="center">HTML</td>
-        <td align="left">Utilizado para criar e estruturar páginas web.</td>
-    </tr>
-    <tr>
-        <td align="center">JavaScript</td>
-        <td align="left">Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.</td>
-    </tr>
-    <tr>
-        <td align="center">MySQL</td>
-        <td align="left">Gerenciar e manipular dados do banco de dados.</td>
+        <th>Technologies Used</th>
+        <th>Purpose</th>
     </tr>
     <tr>
         <td align="center">PHP</td>
-        <td align="left">Usado para o desenvolvimento back-end da aplicação.</td>
-
+        <td align="left">Used for back-end development of the application.</td>
+    </tr>
+    <tr>
+        <td align="center">MySQL</td>
+        <td align="left">Manage and manipulate database data.</td>
+    </tr>
+    <tr>
+        <td align="center">JavaScript</td>
+        <td align="left">Development of methods to provide a more dynamic interface and provide communication with the server.</td>
+    </tr>
+    <tr>
+        <td align="center">HTML</td>
+        <td align="left">Used to create and structure web pages.</td>
+    </tr>
+    <tr>
+        <td align="center">CSS</td>
+        <td align="justify">Stylization of interface components.</td>
+    </tr>
 </table>
 
-## **Contribuições Pessoais**
 
-<p align="justify">Neste projeto atuei como <b>Scrum Master</b>. Ajudei a eliminar os impasses na equipe e garanti que todos os membros seguissem o desenvolvimento ágil ao decorrer das Sprints, entregando resultados dentro do prazo estabelecido. Além disso, contribuí para a estruturação do <b>back-end</b>. Do lado do servidor, tive a competência de desenvolver a arquitetura do sistema, download e exclusão de arquivos, cadastro de conteúdo e a autenticação de usuários.</p>
+## **Personal Contributions**
+
+<p align="justify">In this project, I acted as a <b>Scrum Master</b>. I helped eliminate deadlocks in the team and ensured that all members followed agile development throughout the Sprints, delivering results within the established deadline. In addition, I contributed to the structuring of the <b>back-end</b>. On the server side, I was responsible for developing the system architecture, downloading and deleting files, registering content and authenticating users.</p>
 
 ## **Hard Skills**
 
-O Mr. Academy foi desenvolvido durante o **segundo semestre** de **2020**, no meu primeiro semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
+Mr. Academy was developed during the **second semester** of **2020**, in my **first semester** at Fatec. I had the opportunity to learn and operate the following technologies:
 
-  1.  **CSS** &#8594; Sei fazer com autonomia;
-  3.  **HTML** &#8594; Sei fazer com autonomia;
-  3.  **JavaScript** &#8594; Sei fazer com auxílio;
-  4.  **MySQL** &#8594; Sei fazer com auxílio;
-  5.  **PHP** &#8594; Sei fazer com auxílio.
+  5.  **PHP** &#8594; I can do it with help;
+  4.  **MySQL** &#8594; I can do it with help;
+  3.  **JavaScript** &#8594; I can do it with help;
+  3.  **HTML** &#8594; I know how to do it independently;
+  1.  **CSS** &#8594; I know how to do it independently.
 
 ## **Soft Skills**
 
-* **Gerenciamento de tempo |** Durante o projeto, exercendo a função de  **Scrum Master** pela primeira vez, precisei administrar  o tempo de maneira mais eficiente. Eu realizava, também, o monitoramento do **Burndown** para verificar se a entrega estava sob controle, tornando assim possível efetuar as entregas dentro do prazo estipulado;
+* **Time management |** During the project, as a **Scrum Master** for the first time, I needed to manage my time more efficiently. I also monitored the [**Burndown chart**](https://en.wikipedia.org/wiki/Burndown_chart) to check if the delivery was under control, thus making it possible to make deliveries within the stipulated deadline.;
 
 <br>
 
-* **Organização e planejamento |** Apliquei a metodologia **Scrum** na prática, com o objetivo de administrar a implementação de cada uma das funcionalidades do **Backlog** do produto através do gerenciamento com a plataforma **Trello**. Sendo assim, cada uma das atividades, juntamente ao seu progresso, tornaram-se mais perceptiveis para o time de desenvolvimento.
+* **Organization and planning |** I applied the **Scrum** methodology in practice, with the objective of managing the implementation of each of the functionalities of the **Product Backlog** through management with the **Trello** platform. Therefore, each of the activities, along with their progress, became more perceptible to the development team.
 
-## **GIF da aplicação**
+## **Application GIF**
 
-<p align="justify">A seguir é possível visualizar um GIF da aplicação em seu estado final.</p>
+<p align="justify">Below you can see a GIF of the application in its final state.</p>
 
 <h1 align="center"><img src="/docs/FatecAPI-01/final-video_api01.gif" width="640" height="360"></h1>
 
-<h2 align="center">Vídeo da aplicação em funcionamento <img src="/docs/assets/youtube-icon.svg"  width="19" height="19"></h2>
+<h2 align="center">Video of the application in operation <img src="/docs/assets/youtube-icon.svg"  width="19" height="19"></h2>
 
-<p align="center">Caso possua interesse em assistir o vídeo do projeto na íntegra, basta clicar <a href="https://youtu.be/dpJSavXZcFk">aqui</a>!
+<p align="center">If you are interested in watching the entire project video, just click <a href="https://youtu.be/dpJSavXZcFk">here</a>!
