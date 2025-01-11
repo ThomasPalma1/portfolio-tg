@@ -5,68 +5,69 @@
    <img src="/docs/FatecAPI-04/tecsoja.svg" width="150" height="150">
 </p>
 
-## **Sobre o Projeto**
+## **About the Project**
 
-<p align="justify">O aplicativo <b>TecSoja</b>, procura auxiliar o agricultor em todas as demandas envolvendo tecnologia para uma melhor produção de soja, sendo o foco na análise e aumento da produtividade. A solução proposta é criar um aplicativo que viabiliza ao agricultor estimar sua produtividade a cada cultivo e produtividade total. além do mais, efetuar a comparação da produtividade e áreas plantadas nos demais municípios ao seu redor. O agricultor através do aplicativo, inclusive, poderá dispor de uma análise ampla de custos, clima e época ideal de colheita, tudo isso com base na geolocalização do seu cultivo. À vista disso, o aplicativo busca solidificar registros e informações focadas no cultivo e região do produtor.</p>
+<p align="justify">The mobile application <b>TecSoja</b> seeks to assist farmers in all demands involving technology for better soybean production, with a focus on analyzing and increasing productivity. The proposed solution is to create an application for mobile devices that enables farmers to estimate their productivity for each crop and total productivity. In addition, it allows farmers to compare productivity and planted areas in other municipalities around them. Through the application, farmers will also be able to have access to a comprehensive analysis of costs, climate and ideal harvest time, all based on the geolocation of their crop. In view of this, the application seeks to solidify records and information focused on the producer's crop and region.</p>
 
-## **Sobre a Empresa**
+## **About the Company**
 
-<p align="justify">A <b>Visiona Tecnologia Espacial</b>, empresa situada no parque tecnológico de São José dos Campos, tem como foco a integração de sistemas espaciais. Nascida e estabelecida em 2012, seu propósito consiste em atender os objetivos do <b>Programa Nacional de Atividades Espaciais (PNAE)</b> e do <b>Programa Estratégico de Sistemas Espaciais (PESE)</b>. A empresa foi a responsável pelo <b>Programa do Satélite Geoestacionário de Defesa e Comunicações Estratégicas</b>, o <b>SGDC</b>, lançado em 2017. Em 2018, a Visiona anunciou o programa do primeiro satélite projetado integralmente pela indústria nacional, o <b>VCUB1</b>, e concluiu com êxito o primeiro Sistema de Controle de Órbita e Atitude de satélites desenvolvido no Brasil. A Visiona também fornece produtos e serviços de Sensoriamento Remoto e Telecomunicações por satélite, bem como Aerolevantamento SAR nas Bandas X e P.</p>
+<p align="justify"><b>Visiona Space Technology</b>, a company located in the São José dos Campos technology park, focuses on the integration of space systems. Founded and established in 2012, its purpose is to meet the objectives of the <b>National Space Activities Program</b> and the <b>Strategic Space Systems Program</b>. The company was responsible for the <b>Geostationary Defense and Strategic Communications Satellite Program</b>, the <b>SGDC</b>, launched in 2017. In 2018, Visiona announced the program for the first satellite designed entirely by the national industry, the <b>VCUB1</b>, and successfully completed the first Satellite Orbit and Attitude Control System developed in Brazil. Visiona also provides Remote Sensing and Satellite Telecommunications products and services, as well as SAR Aerial Survey in the X and P Bands.</p>
 
-## **Tecnologias Utilizadas**
+## **Technologies Used**
 
 <table>
     <tr>
-        <th>Tecnologias Utilizadas</th>
-        <th>Finalidade</th>
-    </tr>
-    <tr>
-        <td align="center">Expo</td>
-        <td align="justify">Ferramenta que simplifica o desenvolvimento de aplicativos mobile com React Native.</td>
-    </tr>
-    <tr>
-        <td align="center">JavaScript</td>
-        <td align="left">Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.</td>
+        <th>Technologies Used</th>
+        <th>Purpose</th>
     </tr>
     <tr>
         <td align="center">Node.js</td>
-        <td align="left">Usado para o desenvolvimento back-end da aplicação.</td>
+        <td align="left">Used for back-end development of the application.</td>
     </tr>
     <tr>
         <td align="center">PostgreSQL</td>
-        <td align="left">Gerenciar e manipular dados do banco de dados.</td>
+        <td align="left">Manage and manipulate database data.</td>
+    </tr>
+    <tr>
+        <td align="center">JavaScript</td>
+        <td align="left">Development of methods to provide a more dynamic interface and provide communication with the server.</td>
     </tr>
     <tr>
         <td align="center">React Native</td>
-        <td align="left">Framework baseado em React, que possibilita desenvolver aplicações mobile utilizando apenas Javascript.</td>   
-
+        <td align="left">React-based framework that allows you to develop mobile applications using only JavaScript.</td>
+    </tr>
+    <tr>
+        <td align="center">Expo</td>
+        <td align="justify">Tool that simplifies the development of mobile applications with React Native.</td>
+    </tr>
 </table>
 
-## **Contribuições Pessoais**
 
-<p align="justify">Fui membro da equipe de desenvolvimento. Neste projeto fiquei responsavel por desenvolver e integrar, utilizando o React Native, a visualização do mapa no aplicativo. No lado do servidor, desenvolvi o <b>CRUD (Create, Read, Update and Delete)</b> atinente ao talhão. Elaborei também a regra de negócio por volta da permissão do usuário sobre ele ceder a sua localização.</p>
+## **Personal Contributions**
+
+<p align="justify">I was a member of the development team. In this project, I was responsible for developing and integrating the map view into the application using React Native. On the server side, I developed and implemented the architecture responsible for managing the plots. I also developed the business rule around user permission to share their location.</p>
 
 ## **Hard Skills**
 
-O TecSoja foi desenvolvido durante o **primeiro semestre** de **2022**, no meu quarto semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
+TecSoja was developed during the **first semester** of **2022**, in my **fourth semester** at Fatec. I had the opportunity to learn and operate the following technologies:
 
-  1.  **Expo** &#8594; Sei fazer com auxílio;
-  2.  **JavaScript** &#8594; Sei fazer com auxílio;
-  3.  **Node.js** &#8594; Sei fazer com auxílio;
-  4.  **PostgreSQL** &#8594; Sei fazer com autonomia;
-  5.  **React Native** &#8594; Sei fazer com auxílio.
+  1.  **Node.js** &#8594; I know how to do it independently;
+  2.  **PostgreSQL** &#8594; I know how to do it independently;
+  3.  **JavaScript** &#8594; I can do it with help;
+  4.  **React Native** &#8594; I can do it with help;
+  5.  **Expo** &#8594; I can do it with help.
 
 ## **Soft Skills**
 
-* **Adaptabilidade |** O tema do projeto era totalmente desconhecido pela equipe. Portanto, fomos descobrindo os detalhes de cada funcionalidade um dia de cada vez, para que não ficássemos ansiosos quanto à aplicabilidade real do nosso software.
+* **Adaptability |** The project topic was completely unknown to the team. Therefore, we were discovering the details of each functionality one day at a time, so that we would not be anxious about the real applicability of our software.
 
 <br>
 
-* **Relacionamento |** Foi o primeiro API desenvolvido após o retorno das aulas presenciais. Devido a isso, foi importante o desenvolvimento da amizade entre os integrantes para sentirem satisfação ao se ajuderem durante a implementação do aplicativo.
+* **Relationship |** It was the first API developed after the return of in-person classes due to **Covid-19** and the **global pandemic**. Because of this, it was important to develop friendships among the members so that they could feel satisfied when helping each other during the implementation of the application.
 
-## **Imagens da aplicação**
+## **Application screenshots**
 
-<p align="justify">A seguir é possível visualizar as imagens da aplicação em seu estado final. Cada imagem possui abaixo a descrição do requisito retratado.</p>
+<p align="justify">Below you can see images of the application in its final state. Each image has a description of the requirement portrayed below.</p>
 
 <table align="center">
    <tr>
@@ -75,9 +76,9 @@ O TecSoja foi desenvolvido durante o **primeiro semestre** de **2022**, no meu q
       <td><p align="center"><img src="/docs/FatecAPI-04/login-screen.png" width="150" height="300" /></p></td>
    </tr>
    <tr>
-      <td align="center">Tela inicial.</td>
-      <td align="center">Autenticação de Usuários.</td>
-      <td align="center">Registro de Usuários.</td>
+      <td align="center">Home screen.</td>
+      <td align="center">User Authentication.</td>
+      <td align="center">User Registration.</td>
    </tr>
    <tr>
       <td><p align="center"><img src="/docs/FatecAPI-04/map-screen.png" width="150" height="300"/></p></td>
@@ -85,9 +86,9 @@ O TecSoja foi desenvolvido durante o **primeiro semestre** de **2022**, no meu q
       <td><p align="center"><img src="/docs/FatecAPI-04/field-registration-screen.png" width="150" height="300" /></p></td>
    </tr>
    <tr>
-      <td align="center">Mapa onde o usuário consegue definir áreas para o seu plantio.</td>
-      <td align="center">Registro de fazenda.</td>
-      <td align="center">Registro de talhões.</td>
+      <td align="center">Map where the user can define areas for planting.</td>
+      <td align="center">Farm registration.</td>
+      <td align="center">Field registration.</td>
    </tr>
    <tr>   
       <td><p align="center"><img src="/docs/FatecAPI-04/harvest-information-entry-screen.png" width="150" height="300" /></p></td>
@@ -95,9 +96,9 @@ O TecSoja foi desenvolvido durante o **primeiro semestre** de **2022**, no meu q
       <td><p align="center"><img src="/docs/FatecAPI-04/sample-screen.png" width="150" height="300"/></p></td>
    </tr>
    <tr>
-      <td align="center">Adição de informações sobre a colheita.</td>
-      <td align="center">Inclusão de dados da produtividade.</td>
-      <td align="center">Inserção de informações sobre as amostras recolhidas.</td>
+      <td align="center">Harvest information.</td>
+      <td align="center">Inclusion of productivity data.</td>
+      <td align="center">Insertion of information about the samples collected.</td>
    </tr>
    <tr>
       <td><p align="center"><img src="/docs/FatecAPI-04/screen-for-entering-information-about-the-harvest-data.png" width="150" height="300" /></p></td>
@@ -105,9 +106,9 @@ O TecSoja foi desenvolvido durante o **primeiro semestre** de **2022**, no meu q
       <td><p align="center"><img src="/docs/FatecAPI-04/chart-screen.png" width="150" height="300" /></p></td>
    </tr>
    <tr>
-      <td align="center">Página que solicita informações sobre o cultivo.</td>
-      <td align="center">Registro dos custos da fazenda.</td>
-      <td align="center">Tela de gráficos.</td>
+      <td align="center">Page that requests information about cultivation.</td>
+      <td align="center">Registration of farm costs.</td>
+      <td align="center">Charts screen.</td>
    </tr>
    <tr>
       <td><p align="center"><img src="/docs/FatecAPI-04/screen-containing-the-productivity-chart.png" width="150" height="300"/></p></td>
@@ -115,8 +116,8 @@ O TecSoja foi desenvolvido durante o **primeiro semestre** de **2022**, no meu q
       <td><p align="center"><img src="/docs/FatecAPI-04/email-change-screen.png" width="150" height="300"/></p></td>
    </tr>
    <tr>
-      <td align="center">Gráfico que mostra dados sobre a produtividade.</td>
-      <td align="center">Gráfico que mostra dados sobre o clima.</td>
-      <td align="center">Tela onde é realizado a alteração de e-mail.</td>
+      <td align="center">Chart that displays data about productivity.</td>
+      <td align="center">GChart that displays climate data.</td>
+      <td align="center">Screen where the email change is made.</td>
    </tr>
 </table>
