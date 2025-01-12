@@ -5,85 +5,85 @@
    <img src="/docs/FatecAPI-05/alo-cidadao.svg" width="150" height="150">
 </p>
 
-## **Sobre o Projeto**
+## **About the Project**
 
-<p align="justify">Desenvolver um aplicativo que, desta forma, permita aperfeiçoar o fluxo de atendimento das solicitações. O objetivo do Alô Cidadão é viabilizar um aplicativo de fácil manuseio, para receber as demandas de obras e manutenção. Assegurando uma solicitação mais detalhada e visual. A nossa proposta é permitir que o cidadão realize a solicitação de obras ou manutenção inserindo fotos, descrição, endereço ou utilizar a funcionalidade de geolocalização.</p>
+<p align="justify">Develop an application that will improve the flow of requests. The goal of Alô Cidadão is to provide an easy-to-use application to receive requests for construction and maintenance, ensuring a more detailed and visual request. Our proposal is to allow citizens to make requests for construction or maintenance by inserting photos, descriptions, addresses or using the geolocation feature.</p>
 
-## **Sobre a Empresa**
+## **About the Company**
 
-<p align="justify">Neste quinto semestre não realizamos o projeto com uma empresa externa, mas sim com um cliente interno, que foi um dos nossos professores. O projeto proposto foi desenvolver um aplicativo móvel que permite o cidadão catalogar as demandas ou denuncias de obras e manutenção, favorecendo uma exigência com mais detalhes. Obras em andamento poderão ser consultadas para favorecer a locomoção do cidadãos.</p>
+<p align="justify">At the last minute, the company that would participate in this project ended up withdrawing. Since the college did not have a backup company to replace the one that had withdrawn and with a very tight schedule, in this fifth semester we did not carry out the project with an external company, but rather with an internal client, who was one of our professors. The proposed project was to develop a mobile application that allows citizens to catalog demands or complaints about construction and maintenance, facilitating a more detailed demand. Ongoing construction projects can be consulted to facilitate citizens movement around the city.</p>
 
-## **Tecnologias Utilizadas**
+## **Technologies Used**
 
 <p align="justify"></p>
 
 <table>
     <tr>
-        <th>Tecnologias Utilizadas</th>
-        <th>Finalidade</th>
-    </tr>
-    <tr>
-        <td align="center">Amazon Web Services</td>
-        <td align="justify">Serviços de computação em nuvem, utilizado para o <i><b>upload</b></i> dos serviços desenvolvidos.</td>
-    </tr>
-        <tr>
-        <td align="center">Docker</td>
-        <td align="justify">Plataforma utilizada para a criação e administração de ambientes isolados.</td>
-    </tr>
-        <tr>
-        <td align="center">Flask</td>
-        <td align="justify">Framework consumido para o desenvolvimento de rotas e serviços que compõem a implementação da regra de negócio do servidor da aplicaçao.</td>
-    </tr>
-    <tr>
-        <td align="center">JavaScript</td>
-        <td align="left">Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.</td>
-    </tr>
-    <tr>
-        <td align="center">MongoDB</td>
-        <td align="left">Banco de dados não relacional, utilizado para gerenciar e manipular imagens do banco de dados.</td>
-    </tr>
-    <tr>
-        <td align="center">PostgreSQL</td>
-        <td align="left">Gerenciar e manipular dados do banco de dados.</td>
+        <th>Technologies Used</th>
+        <th>Purpose</th>
     </tr>
     <tr>
         <td align="center">Python</td>
-        <td align="left">Usado para o desenvolvimento back-end da aplicação, juntamente ao framework Flask.</td>
+        <td align="left">Used for back-end development of the application, together with the Flask framework.</td>
+    </tr>
+    <tr>
+    <tr>
+        <td align="center">Flask</td>
+        <td align="justify">Framework used for developing the architecture and services that constitute the business rules of the application server.</td>
+    </tr>
+        <td align="center">PostgreSQL</td>
+        <td align="left">Manage and manipulate database data.</td>
+    </tr>
+    <tr>
+        <td align="center">MongoDB</td>
+        <td align="left">Non-relational database, used to manage and manipulate database images.</td>
+    </tr>
+    <tr>
+        <td align="center">Docker</td>
+        <td align="justify">Technology used to create and manage isolated environments.</td>
+    </tr>
+    <tr>
+        <td align="center">Amazon Web Services</td>
+        <td align="justify">Cloud computing services used to upload the developed services.</td>
+    </tr>
+    <tr>
+        <td align="center">JavaScript</td>
+        <td align="left">Development of methods to provide a more dynamic interface and provide communication with the server.</td>
     </tr>
     <tr>
         <td align="center">React Native</td>
-        <td align="left">Framework baseado em React, que possibilita desenvolver aplicações mobile utilizando apenas Javascript.</td>   
-
+        <td align="left">React-based framework that allows you to develop mobile applications using only JavaScript.</td>
+    </tr>
 </table>
 
-## **Contribuições Pessoais**
+## **Personal Contributions**
 
-<p align="justify">Participei do time de desenvolvimento. Do lado do servidor, demonstrei qualificação para criar a arquitetura do aplicativo, estabelecendo as regras de negócio, desenvolvendo serviços e a construção do banco de dados manipulando o MongoDB, banco de dados não relacional utilizado para o armazenamento de imagens das ocorrencias e o PostgreSQL, banco de dados relacionado, para os demais dados, como informações dos usuários. Utilizando a linguagem de programação Python em conjunto com o <b><i>Flask Framework</b></i>, desenvolvi os seguintes serviços: autenticação de usuário, envio de imagem e logging. Com referência a arquitetura, utilizando Docker e a <b><i>Amazon Web Services</b></i>, apliquei todos os serviços do projeto dentro de máquina virtuais, produzindo todo um ecossitema e possibilitando o acesso externo.</p>
+<p align="justify">This semester, I was part of the development team. On the server side, I was able to demonstrate my ability to create the application architecture, establishing business rules, developing services and structuring databases to store application data. MongoDB, a non-relational database, was chosen to store images of occurrences. For the rest of the application data, PostgreSQL was chosen. As a relational database, it is very efficient in handling the storage of information such as user data, requests, etc. Using Python with the <b>Flask Framework</b>, I developed the following services: user authentication, image sending and defining format standards for logs and their respective levels. Regarding the architecture, using Docker and <b>Amazon Web Services</b>, I deployed all the project services within virtual machines (on AWS), creating an entire ecosystem and enabling external access.</p>
 
 ## **Hard Skills**
 
-O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no meu quinto semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
+O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no meu **quinto semestre** na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
 
-  1.  **Amazon Web Services** &#8594; Sei fazer com autonomia;
-  2.  **Docker** &#8594; Sei fazer com autonomia;
-  3.  **Flask** &#8594; Sei fazer com autonomia;
-  4.  **JavaScript** &#8594; Sei fazer com auxílio;
-  5.  **MongoDB** &#8594; Sei fazer com autonomia;
-  6.  **PostgreSQL** &#8594; Sei fazer com autonomia;
-  7.  **Python** &#8594; Sei fazer com autonomia;
-  8.  **React Native** &#8594; Sei fazer com auxílio.
+  1.  **Python** &#8594; I know how to do it independently;
+  2.  **Flask** &#8594; I know how to do it independently;
+  3.  **PostgreSQL** &#8594; I know how to do it independently;
+  4.  **MongoDB** &#8594; I know how to do it independently;
+  5.  **Docker** &#8594; I know how to do it independently;
+  6.  **Amazon Web Services** &#8594; I know how to do it independently;
+  7.  **JavaScript** &#8594; I can do it with help;
+  8.  **React Native** &#8594; I can do it with help.
 
 ## **Soft Skills**
 
-* **Futurista |** Desenvolvi e adaptei os serviços do back-end do aplicativo visando o seu deploy em uma instância da AWS, para que ele possa ser utilizado de qualquer lugar.
+* **Futuristic |** I developed and adapted the applications back-end services with a view to deploying it on an AWS instance, so that it can be used from anywhere.
 
 <br>
 
-* **Realização |** Diariamente me vi comprometido a desenvolver as especificações do aplicativo e, em paralelo, configurar da melhor forma o deploy através na AWS utilizando o Docker.
+* **Realization |** Every day I found myself committed to developing the application specifications and, in parallel, configuring the deployment in the best way possible through AWS using Docker.
 
 ## **Imagens da aplicação**
 
-<p align="justify">A seguir é possível visualizar as imagens da aplicação em seu estado final. Cada imagem possui abaixo a descrição do requisito retratado.</p>
+<p align="justify">Below you can see images of the application in its final state. Each image has a description of the requirement portrayed below.</p>
 
 <table align="center">
    <tr>
@@ -98,9 +98,9 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       </td>
    </tr>
    <tr>
-      <td align="center">Autenticação de usuário.</td>
-      <td align="center">Registro de usuário.</td>
-      <td align="center">Tela inicial do aplicativo.</td>
+      <td align="center">User authentication.</td>
+      <td align="center">User registration.</td>
+      <td align="center">Application home screen.</td>
    </tr>
    <tr>
       <td>
@@ -114,9 +114,9 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       </td>
    </tr>
    <tr>
-      <td align="center">Tela que exibe as minhas ocorrências.</td>
-      <td align="center">Página que mostra detalhes sobre a ocorrência</td>
-      <td align="center">Primeira etapa do registro de ocorrência. Nesta tela é solicitado a inserção de imagem do problema.</td>
+      <td align="center">Screen that displays my occurrences.</td>
+      <td align="center">Page that displays details about the incident.</td>
+      <td align="center">First step of the occurrence registration. On this screen, you are asked to insert an image of the problem.</td>
    </tr>
    <tr>
       <td>
@@ -130,9 +130,9 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       </td>
    </tr>
    <tr>
-      <td align="center">Segunda etapa do registro de ocorrência. Nesta etapa o usuário precisa adicionar algumas informações sobre o problema.</td>
-      <td align="center">Terceira e ultima etapa do registo de ocorrência. Nesta tela o usuário pode utilizar a funcionalidade de geolocalização ou pode inserir o endereço manualmente. </td>
-      <td align="center">Página que mostra as obras em andamento e seus estados.</td>
+      <td align="center">Second step of the occurrence registration. In this step the user needs to add some information about the problem.</td>
+      <td align="center">Third and final step of the occurrence registration. On this screen the user can use the geolocation functionality or can enter the address manually.</td>
+      <td align="center">Page that displays ongoing works and their status.</td>
    </tr>
    <tr>
       <td>
@@ -146,8 +146,8 @@ O Alô Cidadão foi desenvolvido durante o **segundo semestre** de **2022**, no 
       </td>
    </tr>
    <tr>
-      <td align="center">Tela inicial do usuário autenticado como administrador.</td>
-      <td align="center">Esta página exibe o histórico dos termos e condições, listando as alterações realizadas.</td>
-      <td align="center">Tela que permite atualizar os textos do termos e condições.</td>
+      <td align="center">Home screen of the user authenticated as administrator.</td>
+      <td align="center">This page displays the history of the terms and conditions, listing any changes made.</td>
+      <td align="center">Screen that allows you to update the terms and conditions texts.</td>
    </tr>
 </table>
