@@ -5,91 +5,91 @@
    <img src="/docs/FatecAPI-06/moneymind.svg" width="250" height="250">
 </p>
 
-## **Sobre o Projeto**
+## **About the Project**
 
-<p align="justify">O objetivo principal deste projeto é desenvolver uma ferramenta online de comparação de preços que utilize os dados fornecidos pelo Open Finance e apresente esses dados de forma intuitiva e fluida ao usuário. Com base nas decisões do usuário, a inteligência artificial criada fornecerá recomendações de tarifas, bancos e valores de maneira personalizados.</p>
+<p align="justify">The main objective of this project is to develop an online price comparison tool that uses data provided by Open Finance and presents this data in an intuitive and fluid way to the user. Based on the user's decisions, the artificial intelligence created will provide personalized recommendations for rates, banks and values.</p>
 
 ## **Sobre a Empresa**
 
-<p align="justify">A empresa deste projeto é um banco internacionalmente conhecido que não quer ser identificado por motivos de <i><b>compliance</i></b>. É um banco global com ampla experiência no setor financeiro. Reconhecido por sua competência e inovação, o banco oferece para a sociedade uma extensa quantidade de serviços financeiros com transparência e segurança com dados dos clientes.</p>
+<p align="justify">The company responsible for this project was JPMorgan Chase & Co, an internationally renowned bank. It is a global bank with extensive experience in the financial sector. Recognized for its competence and innovation, the bank offers society a wide range of financial services with transparency and security regarding customer data.</p>
 
-## **Tecnologias Utilizadas**
+## **Technologies Used**
 
 <p align="justify"></p>
 
 <table>
     <tr>
-        <th>Tecnologias Utilizadas</th>
-        <th>Finalidade</th>
-    </tr>
-    <tr>
-        <td align="center">Docker</td>
-        <td align="justify">Plataforma utilizada para a criação e administração de ambientes isolados.</td>
+        <th>Technologies Used</th>
+        <th>Purpose</th>
     </tr>
     <tr>
         <td align="center">Java</td>
-        <td align="justify">Usado para o desenvolvimento back-end da aplicação.</td>
-    </tr>
-        <tr>
-        <td align="center">MySQL</td>
-        <td align="justify">Gerenciar e manipular dados do banco de dados.</td>
-    </tr>
-    <tr>
-        <td align="center">Python</td>
-        <td align="left">Usado no back-end para criar e executar raspagem de dados.</td>
-    </tr>
-    <tr>
-        <td align="center">Scikit-learn</td>
-        <td align="left">Biblioteca de código aberto para a linguagem de programação Python, usada no desenvolvimento da Inteligência Artificial do projeto.</td>
+        <td align="justify">Used for back-end development of the application.</td>
     </tr>
     <tr>
         <td align="center">Spring Boot</td>
-        <td align="left">Framework Java utilizado para desenvolver uma REST API responsável por possibilitar a troca de dados entre o cliente e o servidor.</td>
+        <td align="left">Java framework used to develop the REST API responsible for enabling data exchange between the client and the server.</td>
+    </tr>
+    <tr>
+        <td align="center">MySQL</td>
+        <td align="justify">Manage and manipulate database data.</td>
+    </tr>
+    <tr>
+        <td align="center">Python</td>
+        <td align="left">Used in the back-end to create and execute data scraping.</td>
     </tr>
     <tr>
         <td align="center">TensorFlow</td>
-        <td align="left">Biblioteca de código aberto compatível com Python para computação numérica.</td>
+        <td align="left">Python-compatible open source library for numerical computation.</td>
+    </tr>
+    <tr>
+        <td align="center">Scikit-learn</td>
+        <td align="left">Open source library for the Python programming language, used in the development of the project's Artificial Intelligence.</td>
+    </tr>
+    <tr>
+        <td align="center">Docker</td>
+        <td align="justify">Technology used to create and manage isolated environments.</td>
     </tr>
     <tr>
         <td align="center">TypeScript</td>
-        <td align="left">Linguagem de programação utilizada no front-end para auxiliar no desenvolvimento de aplicações web de larga escala.</td>  
+        <td align="left">Programming language used in the front-end to assist in the development of large-scale web applications.</td>
     </tr>
     <tr>
         <td align="center">Vue</td>
-        <td align="left">Framework baseado em JavaScript, que possibilita criar interfaces e aplicativos de página única.</td>  
-    </tr> 
-
+        <td align="left">JavaScript-based framework that allows you to create interfaces and single-page applications.</td>
+    </tr>
 </table>
+
 
 ## **Contribuições Pessoais**
 
-<p align="justify">Ao longo deste projeto, saliento as minhas contribuições em três áreas principais. Virtualizei os serviços com o Docker, criei um <i><b>Web Scraper</i></b> e auxiliei a desenvolver uma inteligência artificial de recomendação. Eu também ajudei a estruturar o back-end do projeto, na sua totalidade.</p>
+<p align="justify">Throughout this project, I highlight my contributions in three main areas. I virtualized the services with Docker, created a Web Scraper and helped develop a recommendation artificial intelligence using the Nearest Neighbors (KNN) algorithm, implemented through the Scikit-learn library. I also helped structure the back-end of the project.</p>
 
 ## **Hard Skills**
 
-O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu sexto e último semestre na Fatec. Tive a oportunidade de aprender e operar as seguintes tecnologias:
+MoneyMind was developed during the **first semester** of **2023**, in my **sixth** and **last semester** at Fatec. I had the opportunity to learn and operate the following technologies:
 
-  1.  **Docker** &#8594; Sei fazer com autonomia;
-  2.  **Java** &#8594; Sei fazer com autonomia;
-  3.  **MySQL** &#8594; Sei fazer com autonomia;
-  4.  **Python** &#8594; Sei fazer com autonomia;
-  5.  **Scikit-learn** &#8594; Sei fazer com auxílio;
-  6.  **Spring Boot** &#8594; Sei fazer com autonomia;
-  7.  **TensorFlow** &#8594; Sei fazer com auxílio;
-  8.  **TypeScript** &#8594; Sei fazer com auxílio;
-  9.  **Vue** &#8594; Sei fazer com auxílio.
+  2.  **Java** &#8594; I know how to do it independently;
+  6.  **Spring Boot** &#8594; I know how to do it independently;
+  3.  **MySQL** &#8594; I know how to do it independently;
+  4.  **Python** &#8594; I know how to do it independently;
+  7.  **TensorFlow** &#8594; I can do it with help;
+  5.  **Scikit-learn** &#8594; I can do it with help;
+  1.  **Docker** &#8594; I know how to do it independently;
+  8.  **TypeScript** &#8594; I can do it with help;
+  9.  **Vue** &#8594; I can do it with help.
 
 ## **Soft Skills**
 
-* **Estudioso |** Para a implementação da inteligência artificial e do serviço de raspagem de dados, foi necessário pesquisar bastante e aprender sobre como este processo era feito, em ambas as partes. Sendo assim, constantemente estudei e implementei melhorias no código-fonte do projeto.
+* **Studious |** To implement the artificial intelligence and data scraping service, it was necessary to do a lot of research and learn about how this process was done, on both sides. Therefore, I constantly studied and implemented improvements to the project's source code.
 
 <br>
 
-* **Adaptabilidade |** No início do projeto, a equipe desconhecia completamente o tema. Portanto, como uma equipe, exploramos gradualmente todos os recursos possíveis para evitar quaisquer problemas em relação à viabilidade prática do software.
+* **Adaptability |** At the beginning of the project, the team was completely unfamiliar with the topic. So, as a team, we gradually explored all possible features to avoid any issues regarding the practical feasibility of the software.
 
 ## **Imagens da aplicação**
 
-<p align="justify">A seguir é possível visualizar as imagens da aplicação em seu estado final. Cada imagem possui abaixo a descrição do requisito retratado.</p>
+<p align="justify">Below you can see images of the application in its final state. Each image has a description of the requirement portrayed below.</p>
 
 <table align="center">
    <tr>
@@ -104,62 +104,14 @@ O MoneyMind foi desenvolvido durante o **primeiro semestre** de **2023**, no meu
       </td>
    </tr>
    <tr>
-      <td align="center">Tela que lista todas as tarifas de todos os serviços baseando-se em instituições. Possui como parâmetro pessoa física ou jurídica.</td>
-      <td align="center">Gráfico de tarifas. Exibe informações sobre menores e maiores tarifas, filtrando pelo tipo de serviço e tipo de grupo, a qual a instituição pertence.</td>
-      <td align="center">Painel de tarifas. Através desta tela é possível visualizar uma determinada informação relacionada a uma tarifa ou instituição se baseando no filtro aplicado. </td>
+      <td align="center">Screen that lists all the rates for all services based on institutions. It has as a parameter natural or legal person.</td>
+      <td align="center">Rate chart. Displays information about lowest and highest rates, filtered by type of service and type of group to which the institution belongs.</td>
+      <td align="center">Rates panel. Through this screen, you can view specific information related to a rate or institution based on the filter applied.</td>
    </tr>
-   <!-- <tr>
-      <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300"/></p>
-      </td>
-      <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
-      </td>
-      <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
-      </td>
-   </tr>
-   <tr>
-      <td align="center">Text.</td>
-      <td align="center">Text.</td>
-      <td align="center">Text.</td>
-   </tr>
-   <tr>
-      <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
-      </td>
-      <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
-      </td>
-      <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300"/></p>
-      </td>
-   </tr>
-   <tr>
-      <td align="center">Text.</td>
-      <td align="center">Text. </td>
-      <td align="center">Text.</td>
-   </tr>
-   <tr>
-      <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
-      </td>
-      <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300"/></p>
-      </td>
-      <td>
-         <p align="center"><img src="/docs/FatecAPI-06/" width="150" height="300" /></p>
-      </td>
-   </tr>
-   <tr>
-      <td align="center">Text.</td>
-      <td align="center">Text.</td>
-      <td align="center">Text.</td>
-   </tr> -->
 </table>
 
 ## **GIF da aplicação**
 
-<p align="justify">A seguir é possível visualizar um GIF da aplicação em seu estado final.</p>
+<p align="justify">Below you can see a GIF of the application in its final state.</p>
 
 <h1 align="center"><img src="/docs/FatecAPI-06/final-video_api06-updated.gif" width="640" height="360"></h1>
